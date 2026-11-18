@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:ender_eye" },
+    { "item": "farmers_future_delight:kelp" }
+  ],
+  "result": {
+    "item": "snows_bosses:tide_raiser_eye",
+    "count": 1
+  }
+}

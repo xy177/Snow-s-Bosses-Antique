@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:seagold_ingot"
+    },
+    "title": {
+      "translate": "advancements.su.title"
+    },
+    "description": {
+      "translate": "advancements.su.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "su_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:seagolden_helmet"
+          }
+        ]
+      }
+    },
+    "su_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:seagolden_chestplate"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "snows_bosses:caf",
+  "requirements": [
+    [
+      "su_0",
+      "su_1"
+    ]
+  ]
+}

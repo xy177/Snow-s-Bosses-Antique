@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RIR",
+    "ITI",
+    "RIR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "snows_bosses:mechasent_remnant"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:mechasent_smithing_template",
+    "count": 1
+  }
+}

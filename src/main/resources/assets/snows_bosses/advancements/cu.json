@@ -1,0 +1,57 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:haste_coral_helmet"
+    },
+    "title": {
+      "translate": "advancements.cu.title"
+    },
+    "description": {
+      "translate": "advancements.cu.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cu_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:haste_coral_helmet"
+          }
+        ]
+      }
+    },
+    "cu_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:strength_coral_helmet"
+          }
+        ]
+      }
+    },
+    "cu_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:regeneration_coral_helmet"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "snows_bosses:caf",
+  "requirements": [
+    [
+      "cu_0",
+      "cu_1",
+      "cu_2"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " a ",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "snows_bosses:hellstone_nugget"
+    },
+    "b": {
+      "item": "snows_bosses:hellstone_ingot"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:hellstone_totem",
+    "count": 1
+  }
+}

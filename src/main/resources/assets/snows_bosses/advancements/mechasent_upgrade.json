@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "title": {
+      "translate": "advancements.mechasent_upgrade.title"
+    },
+    "description": {
+      "translate": "advancements.mechasent_upgrade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_mechasent_equipment": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "snows_bosses:dissociative_recombination"
+}

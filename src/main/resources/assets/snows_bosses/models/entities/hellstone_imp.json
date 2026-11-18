@@ -1,0 +1,278 @@
+{
+  "textureSize": [
+    32,
+    32
+  ],
+  "parts": [
+    {
+      "name": "all",
+      "parent": null,
+      "pivot": [
+        0.0,
+        24.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": []
+    },
+    {
+      "name": "right_leg",
+      "parent": "all",
+      "pivot": [
+        -1.5,
+        -3.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            8,
+            26
+          ],
+          "origin": [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            3.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "left_leg",
+      "parent": "all",
+      "pivot": [
+        1.5,
+        -3.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            8,
+            26
+          ],
+          "origin": [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            3.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": true
+        }
+      ]
+    },
+    {
+      "name": "body_all",
+      "parent": "all",
+      "pivot": [
+        0.0,
+        -3.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            0,
+            13
+          ],
+          "origin": [
+            -2.5,
+            -6.0,
+            -2.0
+          ],
+          "size": [
+            5.0,
+            6.0,
+            4.0
+          ],
+          "inflate": -0.01,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "parent": "body_all",
+      "pivot": [
+        0.0,
+        -6.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": []
+    },
+    {
+      "name": "head2",
+      "parent": "head",
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            0,
+            0
+          ],
+          "origin": [
+            -3.5,
+            -6.0,
+            -3.5
+          ],
+          "size": [
+            7.0,
+            6.0,
+            7.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        },
+        {
+          "uv": [
+            21,
+            1
+          ],
+          "origin": [
+            -5.5,
+            -8.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            4.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        },
+        {
+          "uv": [
+            21,
+            1
+          ],
+          "origin": [
+            3.5,
+            -8.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            4.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": true
+        }
+      ]
+    },
+    {
+      "name": "right_arm",
+      "parent": "body_all",
+      "pivot": [
+        -2.5,
+        -5.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            0,
+            23
+          ],
+          "origin": [
+            -2.0,
+            -1.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            6.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "left_arm",
+      "parent": "body_all",
+      "pivot": [
+        2.5,
+        -5.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            0,
+            23
+          ],
+          "origin": [
+            0.0,
+            -1.0,
+            -1.0
+          ],
+          "size": [
+            2.0,
+            6.0,
+            2.0
+          ],
+          "inflate": 0.0,
+          "mirror": true
+        }
+      ]
+    }
+  ]
+}

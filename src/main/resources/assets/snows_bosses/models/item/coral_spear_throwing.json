@@ -1,0 +1,39 @@
+{
+  "parent": "snows_bosses:item/coral_spear",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        -125
+      ],
+      "translation": [
+        0,
+        -6,
+        0.5
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        0.85
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        125
+      ],
+      "translation": [
+        0,
+        -6,
+        0.5
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        0.85
+      ]
+    }
+  }
+}

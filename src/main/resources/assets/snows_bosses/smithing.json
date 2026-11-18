@@ -1,0 +1,246 @@
+[
+  {
+    "id": "coral_scythe_craft",
+    "template": {
+      "item": "snows_bosses:red_coral_frag"
+    },
+    "base": {
+      "item": "snows_bosses:ancient_coral_spear"
+    },
+    "addition": {
+      "item": "snows_bosses:pink_coral_frag"
+    },
+    "result": "snows_bosses:coral_scythe"
+  },
+  {
+    "id": "coral_spear_craft",
+    "template": {
+      "item": "snows_bosses:yellow_coral_frag"
+    },
+    "base": {
+      "item": "snows_bosses:ancient_coral_spear"
+    },
+    "addition": {
+      "item": "snows_bosses:blue_coral_frag"
+    },
+    "result": "snows_bosses:coral_spear"
+  },
+  {
+    "id": "haste_coral_helmet_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralHelmet"
+    },
+    "addition": {
+      "item": "snows_bosses:yellow_coral_frag"
+    },
+    "result": "snows_bosses:haste_coral_helmet"
+  },
+  {
+    "id": "normal_coral_helmet_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralHelmet"
+    },
+    "addition": {
+      "item": "snows_bosses:blue_coral_frag"
+    },
+    "result": "snows_bosses:coral_helmet"
+  },
+  {
+    "id": "regeneration_coral_helmet_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralHelmet"
+    },
+    "addition": {
+      "item": "snows_bosses:pink_coral_frag"
+    },
+    "result": "snows_bosses:regeneration_coral_helmet"
+  },
+  {
+    "id": "seagolden_chestplate_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "item": "snows_bosses:coral_chestplate"
+    },
+    "addition": {
+      "item": "snows_bosses:seagold_ingot"
+    },
+    "result": "snows_bosses:seagolden_chestplate"
+  },
+  {
+    "id": "seagolden_crown_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralHelmet"
+    },
+    "addition": {
+      "item": "snows_bosses:seagold_ingot"
+    },
+    "result": "snows_bosses:seagolden_helmet"
+  },
+  {
+    "id": "strength_coral_helmet_craft",
+    "template": {
+      "item": "snows_bosses:coral_smithing_template"
+    },
+    "base": {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralHelmet"
+    },
+    "addition": {
+      "item": "snows_bosses:red_coral_frag"
+    },
+    "result": "snows_bosses:strength_coral_helmet"
+  },
+  {
+    "id": "hellstone_machete_smithing",
+    "template": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    },
+    "base": {
+      "type": "snows_bosses:ffd_item",
+      "item": "farmers_future_delight:netherite_sword"
+    },
+    "addition": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "result": "snows_bosses:hellstone_machete"
+  },
+  {
+    "id": "hellstone_helmet_smithing",
+    "template": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    },
+    "base": {
+      "type": "snows_bosses:ffd_item",
+      "item": "farmers_future_delight:netherite_helmet"
+    },
+    "addition": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "result": "snows_bosses:hellstone_helmet"
+  },
+  {
+    "id": "hellstone_chestplate_chestplate_smithing",
+    "template": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    },
+    "base": {
+      "type": "snows_bosses:ffd_item",
+      "item": "farmers_future_delight:netherite_chestplate"
+    },
+    "addition": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "result": "snows_bosses:hellstone_chestplate_chestplate"
+  },
+  {
+    "id": "hellstone_leggings_smithing",
+    "template": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    },
+    "base": {
+      "type": "snows_bosses:ffd_item",
+      "item": "farmers_future_delight:netherite_leggings"
+    },
+    "addition": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "result": "snows_bosses:hellstone_leggings"
+  },
+  {
+    "id": "hellstone_boots_smithing",
+    "template": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    },
+    "base": {
+      "type": "snows_bosses:ffd_item",
+      "item": "farmers_future_delight:netherite_boots"
+    },
+    "addition": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "result": "snows_bosses:hellstone_boots"
+  },
+  {
+    "id": "mechasent_arm_smithing",
+    "template": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    },
+    "base": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "addition": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "result": "snows_bosses:mechasent_arm"
+  },
+  {
+    "id": "mechasent_helmet_smithing",
+    "template": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    },
+    "base": {
+      "item": "minecraft:iron_helmet"
+    },
+    "addition": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "result": "snows_bosses:mechasent_helmet"
+  },
+  {
+    "id": "mechasent_chestplate_smithing",
+    "template": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    },
+    "base": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "addition": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "result": "snows_bosses:mechasent_chestplate"
+  },
+  {
+    "id": "mechasent_leggings_smithing",
+    "template": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    },
+    "base": {
+      "item": "minecraft:iron_leggings"
+    },
+    "addition": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "result": "snows_bosses:mechasent_leggings"
+  },
+  {
+    "id": "mechasent_boots_smithing",
+    "template": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    },
+    "base": {
+      "item": "minecraft:iron_boots"
+    },
+    "addition": {
+      "item": "snows_bosses:mechasent_remnant"
+    },
+    "result": "snows_bosses:mechasent_boots"
+  }
+]

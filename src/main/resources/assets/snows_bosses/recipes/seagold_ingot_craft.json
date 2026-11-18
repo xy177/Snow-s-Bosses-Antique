@@ -1,0 +1,37 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "item": "snows_bosses:seagold_nugget"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "snowsBossesCoralFragment"
+    }
+  ],
+  "result": {
+    "item": "snows_bosses:seagold_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:coral_ingot"
+    },
+    "title": {
+      "translate": "advancements.tsd.title"
+    },
+    "description": {
+      "translate": "advancements.tsd.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tsd_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "snows_bosses:saw"
+}

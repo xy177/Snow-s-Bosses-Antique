@@ -1,0 +1,26 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "snows_bosses:coral_ingot"
+    },
+    "b": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "c": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "d": {
+      "item": "snows_bosses:coral_smithing_template"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:coral_smithing_template",
+    "count": 2
+  }
+}

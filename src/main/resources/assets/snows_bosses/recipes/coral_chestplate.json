@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "snows_bosses:coral_ingot"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:coral_chestplate",
+    "count": 1
+  }
+}

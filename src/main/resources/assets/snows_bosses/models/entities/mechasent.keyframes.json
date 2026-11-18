@@ -1,0 +1,7274 @@
+{
+  "idle": {
+    "length": 6.0,
+    "loop": true,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              0.0,
+              2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              -2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              0.0,
+              -2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              5.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              0.0,
+              2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              -2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              0.0,
+              -2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "walk": {
+    "length": 1.0,
+    "loop": true,
+    "channels": [
+      {
+        "bone": "right_leg",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_leg",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              -0.5,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.75,
+            "vector": [
+              0.0,
+              4.0,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              -0.5,
+              -3.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              -2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              2.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              -2.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              -0.7,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              -0.7,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              -0.7,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              35.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              35.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              35.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_leg",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              10.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_leg",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              0.0,
+              4.0,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              -0.5,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              0.0,
+              2.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "sleep": {
+    "length": 0.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -67.5,
+              0.0,
+              90.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              3.0,
+              -84.0,
+              37.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              26.0287,
+              11.0014,
+              -110.6815
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -40.0,
+              -100.0,
+              12.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "head",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "head_top",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              -6.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -80.0,
+              0.0,
+              -90.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              10.0,
+              -84.0,
+              55.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              151.4752,
+              -22.0294,
+              96.4524
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              4.0,
+              -100.0,
+              -39.0
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  },
+  "attack1_smash": {
+    "length": 2.5,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -155.5552,
+              32.468,
+              -27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -155.5552,
+              -32.468,
+              27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              -22.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.8,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "attack2_smash2": {
+    "length": 4.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -47.3912,
+              -3.3756,
+              -23.6907
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -47.3912,
+              -3.3756,
+              -23.6907
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -155.5552,
+              32.468,
+              -27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -47.3912,
+              3.3756,
+              23.6907
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              -47.3912,
+              3.3756,
+              23.6907
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.15,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              -155.5552,
+              -32.468,
+              27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.15,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.8,
+            "vector": [
+              -22.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              -22.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "attack3_roar": {
+    "length": 4.75,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              -37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -21.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              90.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              90.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.4,
+            "vector": [
+              -126.5,
+              30.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -126.5,
+              30.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              57.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              57.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              55.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -40.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -40.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -65.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              -65.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head_top",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              -4.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              -4.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              -37.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -21.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              90.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              90.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.4,
+            "vector": [
+              -126.5,
+              -30.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -126.5,
+              -30.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              57.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              57.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              2.0,
+              24.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -8.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              -47.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -47.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              -47.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -47.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "attack4_normalhit": {
+    "length": 0.5,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.1,
+            "vector": [
+              0.0,
+              15.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_leg",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.1,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "attack5_defense": {
+    "length": 7.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -76.317,
+              -27.8095,
+              -9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -76.317,
+              -27.8095,
+              -9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -74.4197,
+              -34.6296,
+              -13.2359
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -74.4197,
+              -34.6296,
+              -13.2359
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -55.1231,
+              59.7662,
+              42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -55.1231,
+              59.7662,
+              42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -12.0,
+              -37.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -12.0,
+              -37.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -12.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -12.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              -80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              0.0,
+              0.0,
+              -80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              0.0,
+              0.0,
+              -80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              0.0,
+              0.0,
+              -80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              0.0,
+              0.0,
+              -55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              0.0,
+              0.0,
+              -55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -134.9811,
+              -30.1819,
+              62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -134.9811,
+              -30.1819,
+              62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -142.4811,
+              -30.1819,
+              62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -142.4811,
+              -30.1819,
+              62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -59.3894,
+              72.2844,
+              41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -59.3894,
+              72.2844,
+              41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -5.0,
+              -23.0,
+              -12.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -5.0,
+              -23.0,
+              -12.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -5.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -5.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              17.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              17.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -25.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -25.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              32.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              32.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -5.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -5.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -76.317,
+              27.8095,
+              9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -76.317,
+              27.8095,
+              9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -74.4197,
+              34.6296,
+              13.2359
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -74.4197,
+              34.6296,
+              13.2359
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -55.1231,
+              -59.7662,
+              -42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -55.1231,
+              -59.7662,
+              -42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              12.0,
+              -37.0,
+              -5.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              12.0,
+              -37.0,
+              -5.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              12.0,
+              -36.0,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              12.0,
+              -36.0,
+              -3.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              0.0,
+              0.0,
+              80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              0.0,
+              0.0,
+              80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              0.0,
+              0.0,
+              80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              0.0,
+              0.0,
+              55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              0.0,
+              0.0,
+              55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -134.9811,
+              30.1819,
+              -62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -134.9811,
+              30.1819,
+              -62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -142.4811,
+              30.1819,
+              -62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -142.4811,
+              30.1819,
+              -62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              -59.3894,
+              -72.2844,
+              -41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              -59.3894,
+              -72.2844,
+              -41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              5.0,
+              -23.0,
+              -7.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              5.0,
+              -23.0,
+              -7.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              5.0,
+              -24.0,
+              -5.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              5.0,
+              -24.0,
+              -5.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head_top",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 4.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.9,
+            "vector": [
+              0.0,
+              -6.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.25,
+            "vector": [
+              0.0,
+              -6.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 5.4,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 6.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 7.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  },
+  "attack6_defensebreak": {
+    "length": 4.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -76.317,
+              -27.8095,
+              -9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -55.1231,
+              59.7662,
+              42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -55.1231,
+              59.7662,
+              42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -32.3523,
+              43.4096,
+              20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -32.3523,
+              43.4096,
+              20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              -32.3523,
+              43.4096,
+              20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -12.0,
+              -37.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -8.37,
+              -28.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.25,
+            "vector": [
+              -8.37,
+              -24.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              -8.37,
+              -24.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              -80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              -55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              -55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              -55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -134.9811,
+              -30.1819,
+              62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -59.3894,
+              72.2844,
+              41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -59.3894,
+              72.2844,
+              41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              56.3972,
+              52.5891,
+              46.6614
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              56.3972,
+              52.5891,
+              46.6614
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -5.0,
+              -23.0,
+              -12.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              5.0,
+              -23.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.25,
+            "vector": [
+              5.0,
+              -25.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              5.0,
+              -25.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              17.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -25.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -25.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              17.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              17.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              32.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -5.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -5.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              40.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.0,
+            "vector": [
+              40.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -76.317,
+              27.8095,
+              9.5827
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -55.1231,
+              -59.7662,
+              -42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -55.1231,
+              -59.7662,
+              -42.6865
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -32.3523,
+              -43.4096,
+              -20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              -32.3523,
+              -43.4096,
+              -20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              -32.3523,
+              -43.4096,
+              -20.1893
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              12.0,
+              -37.0,
+              -5.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              2.0,
+              -36.0,
+              2.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              8.37,
+              -28.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.25,
+            "vector": [
+              8.37,
+              -24.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              8.37,
+              -24.62,
+              2.51
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              80.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              55.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -134.9811,
+              30.1819,
+              -62.8483
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              -59.3894,
+              -72.2844,
+              -41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              -59.3894,
+              -72.2844,
+              -41.8641
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              56.3972,
+              -52.5891,
+              -46.6614
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              56.3972,
+              -52.5891,
+              -46.6614
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              5.0,
+              -23.0,
+              -7.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              1.0,
+              -24.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              -5.0,
+              -23.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.25,
+            "vector": [
+              -5.0,
+              -25.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              -5.0,
+              -25.0,
+              -10.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              -30.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head_top",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  },
+  "attack7_bigsmash": {
+    "length": 3.6,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -80.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.35,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -155.5552,
+              32.468,
+              -27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -68.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -68.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              0.0,
+              -4.0,
+              -28.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -4.0,
+              -28.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.3,
+            "vector": [
+              -7.75,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              -7.75,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -80.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.35,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -155.5552,
+              -32.468,
+              27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              -68.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              -68.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              0.0,
+              -4.0,
+              -28.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              0.0,
+              -4.0,
+              -28.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.3,
+            "vector": [
+              -7.75,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              -7.75,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -55.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.9,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              -72.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.2,
+            "vector": [
+              12.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.6,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "head_top",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.4,
+            "vector": [
+              0.0,
+              -6.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      }
+    ]
+  },
+  "attack8_teleportsmash": {
+    "length": 4.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "right_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -52.5,
+              0.0,
+              -20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -155.5552,
+              32.468,
+              -27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -53.0526,
+              17.5322,
+              -9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "right_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -127.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -52.5,
+              0.0,
+              20.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -6.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -42.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              -35.64,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -27.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -155.5552,
+              -32.468,
+              27.8686
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              -53.0526,
+              -17.5322,
+              9.8558
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_1",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              0.0,
+              -3.0,
+              -18.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "left_arm2_2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.45,
+            "vector": [
+              -15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.75,
+            "vector": [
+              7.25,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              15.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "body2",
+        "target": "rotation",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.4,
+            "vector": [
+              -22.5,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.6,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 3.3,
+            "vector": [
+              45.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 4.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "all",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.2,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              -0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.3,
+            "vector": [
+              0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.35,
+            "vector": [
+              -0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.4,
+            "vector": [
+              0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              -0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.55,
+            "vector": [
+              -0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.6,
+            "vector": [
+              0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.65,
+            "vector": [
+              -1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.7,
+            "vector": [
+              1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.75,
+            "vector": [
+              -1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.8,
+            "vector": [
+              1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              -1.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.9,
+            "vector": [
+              1.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              -2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              2.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.05,
+            "vector": [
+              -1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              1.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.15,
+            "vector": [
+              -0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.2,
+            "vector": [
+              0.5,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.1,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.3,
+            "vector": [
+              -0.1,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1742 @@
+{
+  "altar.delayedSummoning": {
+    "default": true,
+    "zh": "海洋祭坛：是否启用溺魂投入后的 7 秒延迟召唤。",
+    "en": "Ocean altar: whether to enable the 7-second summoning delay after inserting a Drowned Soul."
+  },
+  "structures.searchRegionRadius": {
+    "default": 256,
+    "min": 0,
+    "max": 256,
+    "zh": "结构定位：之眼和定位指令搜索的最大区域半径；每个区域的大小由对应结构间距决定。",
+    "en": "Structure locating: maximum search radius in regions for eyes and locate commands; region size follows each structure's spacing."
+  },
+  "structure_eye.lifetime": {
+    "default": 80,
+    "min": 1,
+    "zh": "结构之眼：投掷实体的存活时长（刻；20刻为1秒）。",
+    "en": "Structure Eye: projectile lifetime (ticks; 20 ticks = 1 second)."
+  },
+  "structure_eye.cooldown": {
+    "default": 20,
+    "min": 1,
+    "zh": "结构之眼：每次使用后的物品冷却时长（刻；20刻为1秒）。",
+    "en": "Structure Eye: item cooldown after each use (ticks; 20 ticks = 1 second)."
+  },
+  "enchantment.protectAllPlayersAndPets": {
+    "default": true,
+    "min": 0,
+    "zh": "唤戟：除施法者、队友及其宠物外，也保护所有玩家及其宠物。关闭后仅按队伍与归属保护。",
+    "en": "Trident summoning: also protect all players and their pets. Disable to protect only the caster, teammates and their pets."
+  },
+  "items.coral_sword.durability": {
+    "default": 1300,
+    "min": 1,
+    "zh": "珊瑚剑：耐久度。",
+    "en": "Coral Sword: durability."
+  },
+  "items.coral_sword.attackDamage": {
+    "default": 7,
+    "min": 0,
+    "zh": "珊瑚剑：攻击伤害加值（生命点）。",
+    "en": "Coral Sword: attack damage modifier (health points)."
+  },
+  "items.coral_sword.attackSpeed": {
+    "default": -2.4,
+    "min": -4,
+    "zh": "珊瑚剑：攻击速度加值。",
+    "en": "Coral Sword: attack speed modifier."
+  },
+  "items.coral_sword.enchantability": {
+    "default": 18,
+    "min": 0,
+    "zh": "珊瑚剑：附魔能力。",
+    "en": "Coral Sword: enchantability."
+  },
+  "items.coral_axe.durability": {
+    "default": 1300,
+    "min": 1,
+    "zh": "珊瑚斧：耐久度。",
+    "en": "Coral Axe: durability."
+  },
+  "items.coral_axe.miningSpeed": {
+    "default": 9,
+    "min": 0,
+    "zh": "珊瑚斧：挖掘速度。",
+    "en": "Coral Axe: mining speed."
+  },
+  "items.coral_axe.attackDamage": {
+    "default": 7,
+    "min": 0,
+    "zh": "珊瑚斧：攻击伤害加值（生命点）。",
+    "en": "Coral Axe: attack damage modifier (health points)."
+  },
+  "items.coral_axe.attackSpeed": {
+    "default": -2.9,
+    "min": -4,
+    "zh": "珊瑚斧：攻击速度加值。",
+    "en": "Coral Axe: attack speed modifier."
+  },
+  "items.coral_axe.harvestLevel": {
+    "default": 4,
+    "min": 0,
+    "zh": "珊瑚斧：挖掘等级。",
+    "en": "Coral Axe: harvest level."
+  },
+  "items.coral_axe.enchantability": {
+    "default": 18,
+    "min": 0,
+    "zh": "珊瑚斧：附魔能力。",
+    "en": "Coral Axe: enchantability."
+  },
+  "items.coral_pickaxe.durability": {
+    "default": 1300,
+    "min": 1,
+    "zh": "珊瑚镐：耐久度。",
+    "en": "Coral Pickaxe: durability."
+  },
+  "items.coral_pickaxe.miningSpeed": {
+    "default": 9,
+    "min": 0,
+    "zh": "珊瑚镐：挖掘速度。",
+    "en": "Coral Pickaxe: mining speed."
+  },
+  "items.coral_pickaxe.attackDamage": {
+    "default": 4.5,
+    "min": 0,
+    "zh": "珊瑚镐：攻击伤害加值（生命点）。",
+    "en": "Coral Pickaxe: attack damage modifier (health points)."
+  },
+  "items.coral_pickaxe.attackSpeed": {
+    "default": -3,
+    "min": -4,
+    "zh": "珊瑚镐：攻击速度加值。",
+    "en": "Coral Pickaxe: attack speed modifier."
+  },
+  "items.coral_pickaxe.harvestLevel": {
+    "default": 4,
+    "min": 0,
+    "zh": "珊瑚镐：挖掘等级。",
+    "en": "Coral Pickaxe: harvest level."
+  },
+  "items.coral_pickaxe.enchantability": {
+    "default": 18,
+    "min": 0,
+    "zh": "珊瑚镐：附魔能力。",
+    "en": "Coral Pickaxe: enchantability."
+  },
+  "items.ancient_coral_spear.durability": {
+    "default": 1000,
+    "min": 1,
+    "zh": "古老珊瑚矛：耐久度。",
+    "en": "Ancient Coral Spear: durability."
+  },
+  "items.ancient_coral_spear.attackDamage": {
+    "default": 6,
+    "min": 0,
+    "zh": "古老珊瑚矛：攻击伤害加值（生命点）。",
+    "en": "Ancient Coral Spear: attack damage modifier (health points)."
+  },
+  "items.ancient_coral_spear.attackSpeed": {
+    "default": -2.5,
+    "min": -4,
+    "zh": "古老珊瑚矛：攻击速度加值。",
+    "en": "Ancient Coral Spear: attack speed modifier."
+  },
+  "items.ancient_coral_spear.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "古老珊瑚矛：附魔能力。",
+    "en": "Ancient Coral Spear: enchantability."
+  },
+  "items.coral_spear.durability": {
+    "default": 1800,
+    "min": 1,
+    "zh": "珊瑚投矛：耐久度。",
+    "en": "Coral Spear: durability."
+  },
+  "items.coral_spear.attackDamage": {
+    "default": 9,
+    "min": 0,
+    "zh": "珊瑚投矛：攻击伤害加值（生命点）。",
+    "en": "Coral Spear: attack damage modifier (health points)."
+  },
+  "items.coral_spear.attackSpeed": {
+    "default": -2.5,
+    "min": -4,
+    "zh": "珊瑚投矛：攻击速度加值。",
+    "en": "Coral Spear: attack speed modifier."
+  },
+  "items.coral_spear.enchantability": {
+    "default": 20,
+    "min": 0,
+    "zh": "珊瑚投矛：附魔能力。",
+    "en": "Coral Spear: enchantability."
+  },
+  "items.coral_scythe.durability": {
+    "default": 1800,
+    "min": 1,
+    "zh": "珊瑚镰刀：耐久度。",
+    "en": "Coral Scythe: durability."
+  },
+  "items.coral_scythe.attackDamage": {
+    "default": 15,
+    "min": 0,
+    "zh": "珊瑚镰刀：攻击伤害加值（生命点）。",
+    "en": "Coral Scythe: attack damage modifier (health points)."
+  },
+  "items.coral_scythe.attackSpeed": {
+    "default": -2.8,
+    "min": -4,
+    "zh": "珊瑚镰刀：攻击速度加值。",
+    "en": "Coral Scythe: attack speed modifier."
+  },
+  "items.coral_scythe.enchantability": {
+    "default": 20,
+    "min": 0,
+    "zh": "珊瑚镰刀：附魔能力。",
+    "en": "Coral Scythe: enchantability."
+  },
+  "armor.coral.durabilityMultiplier": {
+    "default": 35,
+    "min": 0,
+    "zh": "珊瑚盔甲：耐久系数。",
+    "en": "Coral armor: durability multiplier."
+  },
+  "armor.coral.enchantability": {
+    "default": 18,
+    "min": 0,
+    "zh": "珊瑚盔甲：附魔能力。",
+    "en": "Coral armor: enchantability."
+  },
+  "armor.coral.toughness": {
+    "default": 2,
+    "min": 0,
+    "zh": "珊瑚盔甲：盔甲韧性。",
+    "en": "Coral armor: armor toughness."
+  },
+  "armor.coral.knockbackResistance": {
+    "default": 0,
+    "min": 0,
+    "zh": "珊瑚盔甲：每件盔甲的击退抗性（0–1）。",
+    "en": "Coral armor: knockback resistance per piece (0-1)."
+  },
+  "armor.coral.boots.defense": {
+    "default": 3,
+    "min": 0,
+    "zh": "珊瑚盔甲：靴子的护甲值。",
+    "en": "Coral armor: boots armor points."
+  },
+  "armor.coral.boots.durability": {
+    "default": 455,
+    "min": 1,
+    "zh": "珊瑚盔甲：靴子的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Coral armor: boots durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "armor.coral.leggings.defense": {
+    "default": 7,
+    "min": 0,
+    "zh": "珊瑚盔甲：护腿的护甲值。",
+    "en": "Coral armor: leggings armor points."
+  },
+  "armor.coral.leggings.durability": {
+    "default": 525,
+    "min": 1,
+    "zh": "珊瑚盔甲：护腿的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Coral armor: leggings durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "armor.coral.chestplate.defense": {
+    "default": 8,
+    "min": 0,
+    "zh": "珊瑚盔甲：胸甲的护甲值。",
+    "en": "Coral armor: chestplate armor points."
+  },
+  "armor.coral.chestplate.durability": {
+    "default": 560,
+    "min": 1,
+    "zh": "珊瑚盔甲：胸甲的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Coral armor: chestplate durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "armor.coral.helmet.defense": {
+    "default": 4,
+    "min": 0,
+    "zh": "珊瑚盔甲：头盔的护甲值。",
+    "en": "Coral armor: helmet armor points."
+  },
+  "armor.coral.helmet.durability": {
+    "default": 385,
+    "min": 1,
+    "zh": "珊瑚盔甲：头盔的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Coral armor: helmet durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "armor.seagolden.durabilityMultiplier": {
+    "default": 40,
+    "min": 0,
+    "zh": "海金盔甲：耐久系数。",
+    "en": "Seagolden armor: durability multiplier."
+  },
+  "armor.seagolden.enchantability": {
+    "default": 20,
+    "min": 0,
+    "zh": "海金盔甲：附魔能力。",
+    "en": "Seagolden armor: enchantability."
+  },
+  "armor.seagolden.toughness": {
+    "default": 2,
+    "min": 0,
+    "zh": "海金盔甲：盔甲韧性。",
+    "en": "Seagolden armor: armor toughness."
+  },
+  "armor.seagolden.knockbackResistance": {
+    "default": 0.1,
+    "min": 0,
+    "zh": "海金盔甲：每件盔甲的击退抗性（0–1）。",
+    "en": "Seagolden armor: knockback resistance per piece (0-1)."
+  },
+  "armor.seagolden.chestplate.defense": {
+    "default": 10,
+    "min": 0,
+    "zh": "海金盔甲：胸甲的护甲值。",
+    "en": "Seagolden armor: chestplate armor points."
+  },
+  "armor.seagolden.chestplate.durability": {
+    "default": 640,
+    "min": 1,
+    "zh": "海金盔甲：胸甲的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Seagolden armor: chestplate durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "armor.seagolden.helmet.defense": {
+    "default": 5,
+    "min": 0,
+    "zh": "海金盔甲：头盔的护甲值。",
+    "en": "Seagolden armor: helmet armor points."
+  },
+  "armor.seagolden.helmet.durability": {
+    "default": 440,
+    "min": 1,
+    "zh": "海金盔甲：头盔的耐久度。 按该材质耐久系数与原系数之比缩放。",
+    "en": "Seagolden armor: helmet durability. Scaled by the configured material multiplier divided by its original multiplier."
+  },
+  "effects.smallWeaponLungDuration": {
+    "default": 160,
+    "min": 0,
+    "zh": "珊瑚剑、斧和镐施加珊瑚肺的持续时间（tick）。",
+    "en": "Coral lung duration from the sword, axe and pickaxe (ticks)."
+  },
+  "effects.largeWeaponLungDuration": {
+    "default": 80,
+    "min": 0,
+    "zh": "古老珊瑚矛及珊瑚镰刀施加珊瑚肺的持续时间（tick）。",
+    "en": "Coral lung duration from the ancient spear and scythe (ticks)."
+  },
+  "effects.spearLungDuration": {
+    "default": 160,
+    "min": 0,
+    "zh": "珊瑚投矛施加珊瑚肺的持续时间（tick）。",
+    "en": "Coral lung duration from the coral spear (ticks)."
+  },
+  "effects.spearHealing": {
+    "default": 1,
+    "min": 0,
+    "zh": "珊瑚投矛每次命中的回血量（生命点）。",
+    "en": "Coral spear healing per hit (health points)."
+  },
+  "effects.airDrainPerTick": {
+    "default": 1,
+    "min": 0,
+    "zh": "珊瑚肺每 tick 减少的空气值。",
+    "en": "Air removed by coral lung per tick."
+  },
+  "effects.waterBreathingDuration": {
+    "default": 1205,
+    "min": 0,
+    "zh": "套装刷新水下呼吸的持续时间（tick）。",
+    "en": "Water breathing duration refreshed by the armor set (ticks)."
+  },
+  "effects.dolphinsGraceDuration": {
+    "default": 602,
+    "min": 0,
+    "zh": "套装刷新海豚的恩惠的持续时间（tick）。",
+    "en": "Dolphin's grace duration refreshed by the armor set (ticks)."
+  },
+  "effects.helmetBuffDuration": {
+    "default": 3,
+    "min": 0,
+    "zh": "头盔额外效果的持续时间（tick）。",
+    "en": "Duration of additional helmet effects (ticks)."
+  },
+  "effects.helmetBuffAmplifier": {
+    "default": 0,
+    "min": 0,
+    "zh": "头盔额外效果的等级（从 0 开始）。",
+    "en": "Amplifier of additional helmet effects (zero based)."
+  },
+  "scythe.sweepRange": {
+    "default": 4,
+    "min": 0,
+    "zh": "珊瑚镰刀右键横扫半径（格）。",
+    "en": "Coral scythe right click sweep radius (blocks)."
+  },
+  "scythe.sweepDamage": {
+    "default": 10,
+    "min": 0,
+    "zh": "珊瑚镰刀右键横扫伤害（生命点）。",
+    "en": "Coral scythe right click sweep damage (health points)."
+  },
+  "scythe.cooldown": {
+    "default": 40,
+    "min": 0,
+    "zh": "珊瑚镰刀右键横扫冷却（tick）。",
+    "en": "Coral scythe right click sweep cooldown (ticks)."
+  },
+  "copper_golem.lightningAttackDamage": {
+    "default": 14.0,
+    "min": 0,
+    "zh": "战斗铜傀儡：雷击攻击伤害（生命点）。",
+    "en": "Copper Golem: lightning attack damage."
+  },
+  "copper_golem.dischargeDamage": {
+    "default": 1.0,
+    "min": 0,
+    "zh": "战斗铜傀儡：每次放电伤害（生命点）。",
+    "en": "Copper Golem: discharge damage."
+  },
+  "deepwater_piranha.biteDamage": {
+    "default": 18.0,
+    "min": 0,
+    "zh": "深水食人鱼：咬击伤害（生命点）。",
+    "en": "Deepwater Piranha: bite damage."
+  },
+  "deepwater_piranha.landingDamage": {
+    "default": 12.0,
+    "min": 0,
+    "zh": "深水食人鱼：落地范围伤害（生命点）。",
+    "en": "Deepwater Piranha: landing damage."
+  },
+  "drowner.depthStriderDamagePerLevel": {
+    "default": 1.0,
+    "min": 0,
+    "zh": "溺亡者：目标每级深海探索者提供的额外伤害（生命点）。",
+    "en": "Drowner: depth strider damage per level."
+  },
+  "drowner.maxHealth": {
+    "default": 270,
+    "min": 1,
+    "zh": "溺亡者：最大生命值（生命点）。",
+    "en": "Drowner: max health."
+  },
+  "drowner.alwaysHalfHealthCombat": {
+    "default": false,
+    "zh": "溺亡者：是否让非骑乘状态始终使用半血以下的战斗逻辑。",
+    "en": "Drowner: whether an unmounted Drowner always uses the below-half-health combat logic."
+  },
+  "drowner.armor": {
+    "default": 10,
+    "min": 0,
+    "zh": "溺亡者：基础护甲值。",
+    "en": "Drowner: armor."
+  },
+  "drowner.attackDamage": {
+    "default": 3,
+    "min": 0,
+    "zh": "溺亡者：基础攻击属性（不替代各招式的独立伤害）。",
+    "en": "Drowner: attack damage."
+  },
+  "deepwater_piranha.maxHealth": {
+    "default": 220,
+    "min": 1,
+    "zh": "深水食人鱼：最大生命值（生命点）。",
+    "en": "Deepwater Piranha: max health."
+  },
+  "deepwater_piranha.armor": {
+    "default": 0,
+    "min": 0,
+    "zh": "深水食人鱼：基础护甲值。",
+    "en": "Deepwater Piranha: armor."
+  },
+  "deepwater_piranha.attackDamage": {
+    "default": 3,
+    "min": 0,
+    "zh": "深水食人鱼：基础攻击属性（不替代各招式的独立伤害）。",
+    "en": "Deepwater Piranha: attack damage."
+  },
+  "tide_raiser.maxHealth": {
+    "default": 50,
+    "min": 1,
+    "zh": "唤潮者：最大生命值（生命点）。",
+    "en": "Tide Raiser: max health."
+  },
+  "tide_raiser.armor": {
+    "default": 4,
+    "min": 0,
+    "zh": "唤潮者：基础护甲值。",
+    "en": "Tide Raiser: armor."
+  },
+  "tide_raiser.attackDamage": {
+    "default": 3,
+    "min": 0,
+    "zh": "唤潮者：基础攻击属性（不替代各招式的独立伤害）。",
+    "en": "Tide Raiser: attack damage."
+  },
+  "copper_golem.maxHealth": {
+    "default": 70,
+    "min": 1,
+    "zh": "战斗铜傀儡：最大生命值（生命点）。",
+    "en": "Copper Golem: max health."
+  },
+  "copper_golem.armor": {
+    "default": 0,
+    "min": 0,
+    "zh": "战斗铜傀儡：基础护甲值。",
+    "en": "Copper Golem: armor."
+  },
+  "copper_golem.attackDamage": {
+    "default": 3,
+    "min": 0,
+    "zh": "战斗铜傀儡：基础攻击属性（不替代各招式的独立伤害）。",
+    "en": "Copper Golem: attack damage."
+  },
+  "drowner.meleeDamage": {
+    "default": 12,
+    "min": 0,
+    "zh": "溺亡者：普通近战基础伤害（生命点）。",
+    "en": "Drowner: melee damage."
+  },
+  "drowner.normalShotDamage": {
+    "default": 8,
+    "min": 0,
+    "zh": "溺亡者：普通飞行三叉戟的箭实体伤害系数。",
+    "en": "Drowner: normal shot damage."
+  },
+  "drowner.redShotDamage": {
+    "default": 7,
+    "min": 0,
+    "zh": "溺亡者：红色飞行三叉戟的箭实体伤害系数。",
+    "en": "Drowner: red shot damage."
+  },
+  "drowner.spinDamage": {
+    "default": 8,
+    "min": 0,
+    "zh": "溺亡者：旋转攻击基础伤害（生命点）。",
+    "en": "Drowner: spin damage."
+  },
+  "drowner.dashDamage": {
+    "default": 7,
+    "min": 0,
+    "zh": "溺亡者：冲刺基础伤害（生命点）。",
+    "en": "Drowner: dash damage."
+  },
+  "drowner.pillarLightningDamage": {
+    "default": 6,
+    "min": 0,
+    "zh": "溺亡者：非骑乘半血阶段每根三叉戟柱闪电的伤害（生命点）。",
+    "en": "Drowner: lightning damage per trident pillar while unmounted at half health (health points)."
+  },
+  "drowner.normalShotWeight": {
+    "default": 4,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：非骑乘普通飞行三叉戟远程招式的选择权重。",
+    "en": "Drowner: selection weight for the standard trident ranged attack while unmounted."
+  },
+  "drowner.pillarWeight": {
+    "default": 4,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：非骑乘幻影三叉戟柱远程招式的选择权重。",
+    "en": "Drowner: selection weight for the phantom trident pillar attack while unmounted."
+  },
+  "drowner.redShotWeight": {
+    "default": 4,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：非骑乘红色飞行三叉戟远程招式的选择权重。",
+    "en": "Drowner: selection weight for the red trident ranged attack while unmounted."
+  },
+  "drowner.horizontalSweepWeight": {
+    "default": 2,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：横向扫射光束招式的选择权重。",
+    "en": "Drowner: selection weight for the horizontal sweeping beam attack."
+  },
+  "drowner.verticalSweepWeight": {
+    "default": 2,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：纵向扫射光束招式的选择权重。",
+    "en": "Drowner: selection weight for the vertical sweeping beam attack."
+  },
+  "drowner.trackingBeamWeight": {
+    "default": 1,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：追踪汇聚光束招式的选择权重。",
+    "en": "Drowner: selection weight for the converging tracking beam attack."
+  },
+  "drowner.rotatingBeamWeight": {
+    "default": 1,
+    "min": 0,
+    "max": 1000,
+    "zh": "溺亡者：旋转扫射光束招式的选择权重。",
+    "en": "Drowner: selection weight for the rotating beam attack."
+  },
+  "drowner.horizontalBeamDamage": {
+    "default": 5,
+    "min": 0,
+    "zh": "溺亡者：横向扫射光束每次命中的伤害（生命点）。",
+    "en": "Drowner: damage per hit from the horizontal sweeping beam (health points)."
+  },
+  "drowner.verticalBeamDamage": {
+    "default": 5,
+    "min": 0,
+    "zh": "溺亡者：纵向扫射光束每次命中的伤害（生命点）。",
+    "en": "Drowner: damage per hit from the vertical sweeping beam (health points)."
+  },
+  "drowner.trackingBeamDamage": {
+    "default": 3,
+    "min": 0,
+    "zh": "溺亡者：追踪汇聚光束每次命中的伤害（生命点）。",
+    "en": "Drowner: damage per hit from the converging tracking beam (health points)."
+  },
+  "drowner.rotatingBeamDamage": {
+    "default": 4,
+    "min": 0,
+    "zh": "溺亡者：旋转扫射光束每次命中的伤害（生命点）。",
+    "en": "Drowner: damage per hit from the rotating beam (health points)."
+  },
+  "phantom_trident_entity.damage": {
+    "default": 5,
+    "min": 0,
+    "zh": "幻影三叉戟：每次命中伤害（生命点）。",
+    "en": "Phantom Trident Entity: damage."
+  },
+  "enchant_phantom_trident_entity.damage": {
+    "default": 3,
+    "min": 0,
+    "zh": "唤戟三叉戟：每次命中伤害（生命点）。",
+    "en": "Enchant Phantom Trident Entity: damage."
+  },
+  "copper_golem.normalDamageMin": {
+    "default": 9,
+    "min": 0,
+    "zh": "战斗铜傀儡：平常攻击的最低随机伤害（生命点）。",
+    "en": "Copper Golem: normal damage min."
+  },
+  "copper_golem.normalDamageMax": {
+    "default": 14,
+    "min": 0,
+    "zh": "战斗铜傀儡：平常攻击的最高随机伤害（生命点，不低于最低值）。",
+    "en": "Copper Golem: normal damage max."
+  },
+  "copper_golem.thunderDamageMin": {
+    "default": 9,
+    "min": 0,
+    "zh": "战斗铜傀儡：雷暴中普通攻击的最低随机伤害（生命点）。",
+    "en": "Copper Golem: thunder damage min."
+  },
+  "copper_golem.thunderDamageMax": {
+    "default": 13,
+    "min": 0,
+    "zh": "战斗铜傀儡：雷暴中普通攻击的最高随机伤害（生命点，不低于最低值）。",
+    "en": "Copper Golem: thunder damage max."
+  },
+  "altar.soulCost": {
+    "default": 1.0,
+    "min": 0,
+    "zh": "海洋祭坛：每次祭坛召唤消耗的溺魂数量（整数）。",
+    "en": "Altar: soul cost."
+  },
+  "enchantment.maxLevel": {
+    "default": 3.0,
+    "min": 1,
+    "zh": "唤戟：最高附魔等级（整数，至少为 1）。",
+    "en": "Trident summoning: maximum enchantment level (integer, at least 1).",
+    "max": 255
+  },
+  "enchantment.chanceDenominatorOffset": {
+    "default": 4.0,
+    "min": 0,
+    "zh": "唤戟：触发概率分母偏移：等级 /（等级 + 此值）。",
+    "en": "Enchantment: chance denominator offset."
+  },
+  "structures.dimension": {
+    "default": 0,
+    "min": -2147483648,
+    "zh": "海洋结构生成的维度编号（整数）。",
+    "en": "Dimension ID for ocean structures (integer).",
+    "max": 2147483647
+  },
+  "structures.the_ocean_shrine.enabled": {
+    "default": true,
+    "min": 0,
+    "zh": "海洋神龛：是否生成结构。",
+    "en": "the ocean shrine: whether the structure generates."
+  },
+  "structures.the_ocean_shrine.spacing": {
+    "default": 58,
+    "min": 1,
+    "zh": "海洋神龛：区域间距（区块，整数，至少 1）。",
+    "en": "the ocean shrine: region spacing (chunks, integer, at least 1)."
+  },
+  "structures.the_ocean_shrine.separation": {
+    "default": 34,
+    "min": 0,
+    "zh": "海洋神龛：最小间隔（区块，整数；自动限制在间距减一以内）。",
+    "en": "the ocean shrine: minimum separation (chunks, integer; clamped below spacing)."
+  },
+  "structures.tide_raiser_tower.enabled": {
+    "default": true,
+    "min": 0,
+    "zh": "唤潮者的塔楼：是否生成结构。",
+    "en": "tide raiser tower: whether the structure generates."
+  },
+  "structures.tide_raiser_tower.spacing": {
+    "default": 54,
+    "min": 1,
+    "zh": "唤潮者的塔楼：区域间距（区块，整数，至少 1）。",
+    "en": "tide raiser tower: region spacing (chunks, integer, at least 1)."
+  },
+  "structures.tide_raiser_tower.separation": {
+    "default": 32,
+    "min": 0,
+    "zh": "唤潮者的塔楼：最小间隔（区块，整数；自动限制在间距减一以内）。",
+    "en": "tide raiser tower: minimum separation (chunks, integer; clamped below spacing)."
+  },
+  "effects.waterBreathingAmplifier": {
+    "default": 0,
+    "min": 0,
+    "zh": "套装水下呼吸：效果等级减一（整数，0 表示 I）。",
+    "en": "Armor set water breathing: effect amplifier (integer, zero means level I).",
+    "max": 255
+  },
+  "effects.dolphinsGraceAmplifier": {
+    "default": 0,
+    "min": 0,
+    "zh": "套装海豚的恩惠：效果等级减一（整数，0 表示 I）。",
+    "en": "Armor set dolphin's grace: effect amplifier (integer, zero means level I).",
+    "max": 255
+  },
+  "effects.coralLungAmplifier": {
+    "default": 0,
+    "min": 0,
+    "zh": "珊瑚肺：效果等级减一（整数，0 表示 I）。",
+    "en": "Coral lung: effect amplifier (integer, zero means level I).",
+    "max": 255
+  },
+  "hellstone.blocks.hardness": {
+    "default": 20,
+    "zh": "狱岩：方块：方块硬度。",
+    "en": "hellstone / blocks: block hardness.",
+    "min": 0
+  },
+  "hellstone.blocks.explosionResistance": {
+    "default": 1200,
+    "zh": "狱岩：方块：方块爆炸抗性。",
+    "en": "hellstone / blocks: block blast resistance.",
+    "min": 0
+  },
+  "hellstone.blocks.harvestLevel": {
+    "default": 3,
+    "zh": "狱岩：方块：所需镐采掘等级。",
+    "en": "hellstone / blocks: required pickaxe harvest level.",
+    "min": 0
+  },
+  "hellstone.machete.durability": {
+    "default": 2000,
+    "zh": "狱岩：砍刀：耐久度。",
+    "en": "hellstone / machete: durability.",
+    "min": 1
+  },
+  "hellstone.machete.enchantability": {
+    "default": 22,
+    "zh": "狱岩：砍刀：附魔能力。",
+    "en": "hellstone / machete: enchantability.",
+    "min": 0
+  },
+  "hellstone.machete.attackDamage": {
+    "default": 9,
+    "zh": "狱岩：砍刀：攻击伤害加值（生命点）。",
+    "en": "hellstone / machete: attack damage bonus in health points.",
+    "min": 0
+  },
+  "hellstone.machete.attackSpeed": {
+    "default": 1.1,
+    "zh": "狱岩：砍刀：每秒攻击次数。",
+    "en": "hellstone / machete: attacks per second.",
+    "min": 0
+  },
+  "hellstone.chestplate.armor": {
+    "default": 9,
+    "zh": "狱岩：胸甲：护甲值。",
+    "en": "hellstone / chestplate: armor points.",
+    "min": 0
+  },
+  "hellstone.chestplate.enchantability": {
+    "default": 23,
+    "zh": "狱岩：胸甲：附魔能力。",
+    "en": "hellstone / chestplate: enchantability.",
+    "min": 0
+  },
+  "hellstone.chestplate.toughness": {
+    "default": 2,
+    "zh": "狱岩：胸甲：盔甲韧性。",
+    "en": "hellstone / chestplate: armor toughness.",
+    "min": 0
+  },
+  "hellstone.chestplate.durability": {
+    "default": 650,
+    "zh": "狱岩：胸甲：耐久度。",
+    "en": "hellstone / chestplate: durability.",
+    "min": 1
+  },
+  "hellstone.chestplate.knockbackResistance": {
+    "default": 0.2,
+    "zh": "狱岩：胸甲：击退抗性。",
+    "en": "hellstone / chestplate: knockback resistance.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.burn.minimumDamage": {
+    "default": 2,
+    "zh": "狱岩：恶燃：恶燃最低伤害（生命点）。",
+    "en": "hellstone / burn: minimum malevolent burn damage in health points.",
+    "min": 0
+  },
+  "hellstone.burn.nonPlayerDamageCap": {
+    "default": 20,
+    "zh": "狱岩：恶燃：非玩家生物的单次恶燃伤害上限，在抗性提升减伤后计算（生命点）；0表示不限制，不影响玩家。",
+    "en": "hellstone / burn: damage cap per malevolent burn hit against non-player living entities, after Resistance reduction, in health points; 0 disables the cap. Does not affect players.",
+    "min": 0
+  },
+  "hellstone.blocks.burnDuration": {
+    "default": 80,
+    "zh": "狱岩：方块：施加的恶燃持续时间（刻）。",
+    "en": "hellstone / blocks: applied malevolent burn duration in ticks.",
+    "min": 0
+  },
+  "hellstone.blocks.healthFraction": {
+    "default": 0.1,
+    "zh": "狱岩：方块：按目标当前生命扣除的比例。",
+    "en": "hellstone / blocks: damage fraction of the target current health.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.equipment.burnChance": {
+    "default": 0.1,
+    "zh": "狱岩：砍刀触发恶燃的概率；护甲受击反制按每件此概率相加，上限为1。",
+    "en": "Hellstone: machete malevolent burn chance; armor retaliation adds this chance per equipped piece, capped at 1.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.equipment.burnThreshold": {
+    "default": 20,
+    "zh": "狱岩：装备触发效果：允许触发短恶燃的剩余时长阈值（刻）。",
+    "en": "hellstone / equipment: maximum remaining burn duration permitting a short burn proc, in ticks.",
+    "min": 0
+  },
+  "hellstone.equipment.burnDuration": {
+    "default": 30,
+    "zh": "狱岩：装备触发效果：施加的恶燃持续时间（刻）。",
+    "en": "hellstone / equipment: applied malevolent burn duration in ticks.",
+    "min": 0
+  },
+  "hellstone.equipment.fireSeconds": {
+    "default": 10,
+    "zh": "狱岩：装备触发效果：点燃时间（秒）。",
+    "en": "hellstone / equipment: ordinary fire duration in seconds.",
+    "min": 0
+  },
+  "hellstone.machete.minimumCharge": {
+    "default": 0.9,
+    "zh": "狱岩：砍刀：触发武器效果所需最小攻击蓄力比例。",
+    "en": "hellstone / machete: minimum attack charge fraction required for the weapon effect.",
+    "min": 0
+  },
+  "hellstone.burn.interval": {
+    "default": 20,
+    "zh": "狱岩：恶燃：恶燃伤害结算间隔（刻）。",
+    "en": "hellstone / burn: malevolent burn damage interval in ticks.",
+    "min": 1
+  },
+  "hellstone.burn.healthFraction": {
+    "default": 0.07,
+    "zh": "狱岩：恶燃：按目标当前生命扣除的比例。",
+    "en": "hellstone / burn: damage fraction of the target current health.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.chestplate.fireResistanceDuration": {
+    "default": 11,
+    "zh": "狱岩：护腿：抗火效果持续时间（刻）。",
+    "en": "Hellstone / leggings: fire resistance duration in ticks.",
+    "min": 0
+  },
+  "hellstone.chestplate.lavaInterval": {
+    "default": 10,
+    "zh": "狱岩：所有护甲在熔岩中修复耐久、胸甲恢复生命值的间隔（刻）。",
+    "en": "Hellstone: lava repair interval for all armor and healing interval for the chestplate, in ticks.",
+    "min": 1
+  },
+  "hellstone.chestplate.lavaRepair": {
+    "default": 1,
+    "zh": "狱岩：每件护甲每次熔岩修复的耐久度。",
+    "en": "Hellstone: durability repaired per lava interval for each armor piece.",
+    "min": 0
+  },
+  "hellstone.chestplate.lavaHealing": {
+    "default": 1,
+    "zh": "狱岩：胸甲：每次熔岩回复的生命点。",
+    "en": "hellstone / chestplate: health restored per lava interval.",
+    "min": 0
+  },
+  "hellstone.totem.restoredHealth": {
+    "default": 1,
+    "zh": "狱岩：图腾：图腾触发后恢复的生命点。",
+    "en": "hellstone / totem: health restored upon totem activation.",
+    "min": 0
+  },
+  "hellstone.totem.resistanceDuration": {
+    "default": 60,
+    "zh": "狱岩：图腾：抗性提升持续时间（刻）。",
+    "en": "hellstone / totem: resistance duration in ticks.",
+    "min": 0
+  },
+  "hellstone.totem.resistanceAmplifier": {
+    "default": 3,
+    "zh": "狱岩：图腾：抗性提升等级减一。",
+    "en": "hellstone / totem: resistance level minus one.",
+    "min": 0,
+    "max": 255
+  },
+  "hellstone.totem.fireResistanceDuration": {
+    "default": 2400,
+    "zh": "狱岩：图腾：抗火效果持续时间（刻）。",
+    "en": "hellstone / totem: fire resistance duration in ticks.",
+    "min": 0
+  },
+  "hellstone.totem.fireResistanceAmplifier": {
+    "default": 0,
+    "zh": "狱岩：图腾：抗火等级减一。",
+    "en": "hellstone / totem: fire resistance level minus one.",
+    "min": 0,
+    "max": 255
+  },
+  "hellstone.totem.regenerationDuration": {
+    "default": 1200,
+    "zh": "狱岩：图腾：生命恢复持续时间（刻）。",
+    "en": "hellstone / totem: regeneration duration in ticks.",
+    "min": 0
+  },
+  "hellstone.totem.regenerationAmplifier": {
+    "default": 3,
+    "zh": "狱岩：图腾：生命恢复等级减一。",
+    "en": "hellstone / totem: regeneration level minus one.",
+    "min": 0,
+    "max": 255
+  },
+  "hellstone.totem.range": {
+    "default": 5,
+    "zh": "狱岩：图腾：影响范围半径（格）。",
+    "en": "hellstone / totem: effect radius in blocks.",
+    "min": 0
+  },
+  "hellstone.totem.burnDuration": {
+    "default": 100,
+    "zh": "狱岩：图腾：施加的恶燃持续时间（刻）。",
+    "en": "hellstone / totem: applied malevolent burn duration in ticks.",
+    "min": 0
+  },
+  "hellstone_golem.projectileDamageMultiplier": {
+    "default": 0.8,
+    "zh": "狱岩魔像：投射物相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem: projectile damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone.wave.flameHealthFraction": {
+    "default": 0.07,
+    "zh": "狱岩：冲击波：火焰波动即时伤害占当前生命比例。",
+    "en": "hellstone / wave: flame wave immediate damage fraction of current health.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone_ruin.enabled": {
+    "default": true,
+    "zh": "狱岩魔像遗迹：是否启用。",
+    "en": "hellstone ruin: whether enabled."
+  },
+  "hellstone_ruin.dimension": {
+    "default": -1,
+    "zh": "狱岩魔像遗迹：生成维度编号。",
+    "en": "hellstone ruin: generation dimension ID.",
+    "min": -2147483648
+  },
+  "hellstone_ruin.spacing": {
+    "default": 52,
+    "zh": "狱岩魔像遗迹：结构区域边长（区块）。",
+    "en": "hellstone ruin: structure region size in chunks.",
+    "min": 1
+  },
+  "hellstone_ruin.separation": {
+    "default": 44,
+    "zh": "狱岩魔像遗迹：结构候选间距限制（区块），小于区域边长。",
+    "en": "hellstone ruin: candidate separation in chunks; less than region size.",
+    "min": 0
+  },
+  "hellstone_ruin.minimumY": {
+    "default": 40,
+    "zh": "狱岩魔像遗迹：最低生成高度。",
+    "en": "hellstone ruin: minimum generation height.",
+    "min": 0
+  },
+  "hellstone_ruin.maximumY": {
+    "default": 72,
+    "zh": "狱岩魔像遗迹：最高生成高度。",
+    "en": "hellstone ruin: maximum generation height.",
+    "min": 0
+  },
+  "hellstone_golem.maxHealth": {
+    "default": 300,
+    "zh": "狱岩魔像：最大生命值。",
+    "en": "hellstone golem: maximum health.",
+    "min": 0.01
+  },
+  "hellstone_golem.attackDamage": {
+    "default": 14,
+    "zh": "狱岩魔像：攻击伤害属性（生命点）。",
+    "en": "hellstone golem: attack damage attribute in health points.",
+    "min": 0
+  },
+  "hellstone_golem.armor": {
+    "default": 22,
+    "zh": "狱岩魔像：护甲值。",
+    "en": "hellstone golem: armor points.",
+    "min": 0
+  },
+  "hellstone_imp.maxHealth": {
+    "default": 16,
+    "zh": "狱岩小鬼：最大生命值。",
+    "en": "hellstone imp: maximum health.",
+    "min": 0.01
+  },
+  "hellstone_imp.attackDamage": {
+    "default": 3,
+    "zh": "狱岩小鬼：攻击伤害属性（生命点）。",
+    "en": "hellstone imp: attack damage attribute in health points.",
+    "min": 0
+  },
+  "hellstone_imp.armor": {
+    "default": 2,
+    "zh": "狱岩小鬼：护甲值。",
+    "en": "hellstone imp: armor points.",
+    "min": 0
+  },
+  "hellstone.machete.entityReachBonus": {
+    "default": 0.5,
+    "zh": "狱岩：砍刀：实体攻击触及加值（格），不影响方块交互。",
+    "en": "hellstone / machete: entity attack reach bonus in blocks; does not affect block interaction.",
+    "min": 0
+  },
+  "hellstone_golem.wake.damageMultiplier": {
+    "default": 1,
+    "zh": "狱岩魔像：苏醒：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / wake: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone_golem.attack1.damageMultiplier": {
+    "default": 1,
+    "zh": "狱岩魔像：招式1：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / attack1: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone_golem.attack2.damageMultiplier": {
+    "default": 0.8,
+    "zh": "狱岩魔像：招式2：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / attack2: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone_golem.attack3.damageMultiplier": {
+    "default": 1.2,
+    "zh": "狱岩魔像：招式3：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / attack3: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone_golem.attack4.damageMultiplier": {
+    "default": 0.8,
+    "zh": "狱岩魔像：招式4：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / attack4: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "hellstone_golem.attack5.damageMultiplier": {
+    "default": 1,
+    "zh": "狱岩魔像：招式5：打击相对于攻击属性的伤害倍率。",
+    "en": "hellstone golem / attack5: strike damage multiplier relative to the attack attribute.",
+    "min": 0
+  },
+  "mechasent.maxHealth": {
+    "default": 350,
+    "zh": "机械遣使：最大生命值。",
+    "en": "Mechasent: Maximum health.",
+    "min": 1,
+    "max": 1000000
+  },
+  "mechasent.broadcastCooldown": {
+    "default": 3,
+    "zh": "机械遣使：普通播报共用冷却（秒）；冷却期间的新播报直接跳过，死亡播报不受限制。",
+    "en": "Mechasent: Shared broadcast cooldown (seconds); new broadcasts during cooldown are skipped, and the death broadcast bypasses this cooldown.",
+    "min": 0
+  },
+  "mechasent.armor": {
+    "default": 16,
+    "zh": "机械遣使：护甲值。",
+    "en": "Mechasent: Armor points.",
+    "min": 0
+  },
+  "mechasent.attackDamage": {
+    "default": 16,
+    "zh": "机械遣使：基础攻击伤害，供各技能倍率使用。",
+    "en": "Mechasent: Base attack damage used by skill multipliers.",
+    "min": 0
+  },
+  "mechasent.defense.laserDamageMultiplier": {
+    "default": 0.5,
+    "zh": "机械遣使：格挡反击激光相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Defense-counter laser damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.heavy.laserDamageMultiplier": {
+    "default": 0.5,
+    "zh": "机械遣使：重砸激光相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Heavy-smash laser damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.teleport.laserDamageMultiplier": {
+    "default": 0.5,
+    "zh": "机械遣使：瞬移砸击激光相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Teleport-smash laser damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.roar.damageMultiplier": {
+    "default": 0.1,
+    "zh": "机械遣使：每次咆哮伤害尝试的攻击倍率，实际伤害受无敌帧影响。",
+    "en": "Mechasent: Attack damage multiplier per roar damage attempt; actual damage is subject to invulnerability frames.",
+    "min": 0
+  },
+  "mechasent.roar.laserDamageMultiplier": {
+    "default": 0.375,
+    "zh": "机械遣使：咆哮激光相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Roar laser damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack1.damageMultiplier": {
+    "default": 1,
+    "zh": "机械遣使：砸击：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Smash: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack1.waveDamageMultiplier": {
+    "default": 0.375,
+    "zh": "机械遣使：砸击：普通冲击波相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Smash: ordinary shockwave damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack2.damageMultiplier": {
+    "default": 0.625,
+    "zh": "机械遣使：双重砸击：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Double smash: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack4.damageMultiplier": {
+    "default": 0.4,
+    "zh": "机械遣使：无臂近战：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Unarmed attack: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack5.damageMultiplier": {
+    "default": 1,
+    "zh": "机械遣使：格挡反击：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Defense counter: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack7.damageMultiplier": {
+    "default": 1.25,
+    "zh": "机械遣使：蓄力重砸：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Heavy smash: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack8.damageMultiplier": {
+    "default": 1,
+    "zh": "机械遣使：瞬移砸击：相对基础攻击的直接伤害倍率。",
+    "en": "Mechasent: Teleport smash: direct damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "mechasent.attack8.waveDamageMultiplier": {
+    "default": 0.5,
+    "zh": "机械遣使：瞬移砸击：普通冲击波相对基础攻击的伤害倍率。",
+    "en": "Mechasent: Teleport smash: ordinary shockwave damage multiplier relative to base attack damage.",
+    "min": 0
+  },
+  "drowner.armorToughness": {
+    "default": 0,
+    "zh": "溺亡者：护甲韧性。",
+    "en": "Drowner: Armor toughness.",
+    "min": 0
+  },
+  "deepwater_piranha.armorToughness": {
+    "default": 0,
+    "zh": "深水食人鱼：护甲韧性。",
+    "en": "Deepwater Piranha: Armor toughness.",
+    "min": 0
+  },
+  "tide_raiser.armorToughness": {
+    "default": 0,
+    "zh": "唤潮者：护甲韧性。",
+    "en": "Tide Raiser: Armor toughness.",
+    "min": 0
+  },
+  "copper_golem.armorToughness": {
+    "default": 0,
+    "zh": "战斗铜傀儡：护甲韧性。",
+    "en": "Copper Golem: Armor toughness.",
+    "min": 0
+  },
+  "hellstone_golem.armorToughness": {
+    "default": 0,
+    "zh": "狱岩魔像：护甲韧性。",
+    "en": "Hellstone Golem: Armor toughness.",
+    "min": 0
+  },
+  "hellstone_imp.armorToughness": {
+    "default": 0,
+    "zh": "狱岩小鬼：护甲韧性。",
+    "en": "Hellstone Imp: Armor toughness.",
+    "min": 0
+  },
+  "mechasent.armorToughness": {
+    "default": 0,
+    "zh": "机械遣使：护甲韧性。",
+    "en": "Mechasent: Armor toughness.",
+    "min": 0
+  },
+  "worker_bee.maxHealth": {
+    "default": 100,
+    "zh": "遣使工蜂：最大生命值（生命点）。",
+    "en": "Mechasent Worker Bee: Maximum health (health points).",
+    "min": 1
+  },
+  "worker_bee.armor": {
+    "default": 0,
+    "zh": "遣使工蜂：护甲值。",
+    "en": "Mechasent Worker Bee: Armor points.",
+    "min": 0
+  },
+  "worker_bee.armorToughness": {
+    "default": 0,
+    "zh": "遣使工蜂：护甲韧性。",
+    "en": "Mechasent Worker Bee: Armor toughness.",
+    "min": 0
+  },
+  "worker_bee.laserDamage": {
+    "default": 6,
+    "zh": "遣使工蜂：单发激光伤害（生命点）。",
+    "en": "Mechasent Worker Bee: Single laser damage (health points).",
+    "min": 0
+  },
+  "worker_bee.burstDamage": {
+    "default": 3,
+    "zh": "遣使工蜂：连射激光每发伤害（生命点）。",
+    "en": "Mechasent Worker Bee: Damage per burst laser (health points).",
+    "min": 0
+  },
+  "worker_bee.beamDamage": {
+    "default": 8,
+    "zh": "遣使工蜂：光柱中心每次伤害（生命点），随水平距离递减。",
+    "en": "Mechasent Worker Bee: Damage per pulse at the beam center (health points), decreasing with horizontal distance.",
+    "min": 0
+  },
+  "worker_bee.beamDuration": {
+    "default": 15,
+    "zh": "遣使工蜂：光柱持续时间（秒）。",
+    "en": "Mechasent Worker Bee: Beam duration (seconds).",
+    "min": 0.05
+  },
+  "worker_bee.beamDamageInterval": {
+    "default": 1,
+    "zh": "遣使工蜂：光柱伤害间隔（秒）。",
+    "en": "Mechasent Worker Bee: Beam damage interval (seconds).",
+    "min": 0.05
+  },
+  "hellstone_golem.chargeDamage": {
+    "default": 7,
+    "zh": "狱岩魔像：冲锋碰撞伤害（生命点）。",
+    "en": "hellstone golem: charge collision damage in health points.",
+    "min": 0
+  },
+  "hellstone_golem.chargeSlamDamage": {
+    "default": 14,
+    "zh": "狱岩魔像：冲锋后砸地伤害（生命点）。",
+    "en": "hellstone golem: charge follow-up ground slam damage in health points.",
+    "min": 0
+  },
+  "hellstone_golem.attack1.weightAboveHalf": {
+    "default": 3,
+    "zh": "狱岩魔像：招式1：生命值大于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 1: integer selection weight above 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack1.weightAboveQuarter": {
+    "default": 2,
+    "zh": "狱岩魔像：招式1：生命值大于25%且不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 1: integer selection weight above 25% and at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack1.weightAtOrBelowQuarter": {
+    "default": 1,
+    "zh": "狱岩魔像：招式1：生命值不高于25%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 1: integer selection weight at or below 25% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack2.weightAboveHalf": {
+    "default": 3,
+    "zh": "狱岩魔像：招式2：生命值大于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 2: integer selection weight above 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack2.weightAboveQuarter": {
+    "default": 2,
+    "zh": "狱岩魔像：招式2：生命值大于25%且不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 2: integer selection weight above 25% and at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack2.weightAtOrBelowQuarter": {
+    "default": 1,
+    "zh": "狱岩魔像：招式2：生命值不高于25%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 2: integer selection weight at or below 25% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack3.weightAboveHalf": {
+    "default": 3,
+    "zh": "狱岩魔像：招式3：生命值大于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 3: integer selection weight above 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack3.weightAboveQuarter": {
+    "default": 2,
+    "zh": "狱岩魔像：招式3：生命值大于25%且不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 3: integer selection weight above 25% and at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack3.weightAtOrBelowQuarter": {
+    "default": 1,
+    "zh": "狱岩魔像：招式3：生命值不高于25%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 3: integer selection weight at or below 25% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack4.weightAboveHalf": {
+    "default": 3,
+    "zh": "狱岩魔像：招式4：生命值大于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 4: integer selection weight above 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack4.weightAboveQuarter": {
+    "default": 2,
+    "zh": "狱岩魔像：招式4：生命值大于25%且不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 4: integer selection weight above 25% and at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.attack4.weightAtOrBelowQuarter": {
+    "default": 1,
+    "zh": "狱岩魔像：招式4：生命值不高于25%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem attack 4: integer selection weight at or below 25% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.chargeWeight": {
+    "default": 2,
+    "zh": "狱岩魔像：冲锋接砸地：所有血量下的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem charge and slam: integer selection weight at any health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.summonWeightAboveHalf": {
+    "default": 2,
+    "zh": "狱岩魔像：召唤狱岩小鬼：生命值大于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem imp summoning: integer selection weight above 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.summonWeightAtOrBelowHalf": {
+    "default": 3,
+    "zh": "狱岩魔像：召唤狱岩小鬼：生命值不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem imp summoning: integer selection weight at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.pillarWeightAboveThreeQuarters": {
+    "default": 0,
+    "zh": "狱岩魔像：狱岩图腾柱：生命值大于75%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem totems: integer selection weight above 75% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.pillarWeightAboveHalf": {
+    "default": 1,
+    "zh": "狱岩魔像：狱岩图腾柱：生命值大于50%且不高于75%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem totems: integer selection weight above 50% and at or below 75% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.pillarWeightAboveQuarter": {
+    "default": 2,
+    "zh": "狱岩魔像：狱岩图腾柱：生命值大于25%且不高于50%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem totems: integer selection weight above 25% and at or below 50% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.pillarWeightAtOrBelowQuarter": {
+    "default": 4,
+    "zh": "狱岩魔像：狱岩图腾柱：生命值不高于25%时的整数抽选权重；0为不参与抽选。",
+    "en": "Hellstone Golem totems: integer selection weight at or below 25% health; zero disables selection.",
+    "min": 0
+  },
+  "hellstone_golem.summonCooldown": {
+    "default": 1500,
+    "zh": "狱岩魔像：小鬼和图腾柱各自在技能结束后重置的冷却（刻；1500刻为75秒）。开始使用其中一招时，另一招的剩余冷却增加200刻（10秒）。",
+    "en": "Hellstone Golem: cooldown reset separately after imp summoning or totem recovery (ticks; 1500 = 75 seconds). Starting either skill adds 200 ticks (10 seconds) to the other skill's remaining cooldown.",
+    "min": 1,
+    "max": 2147483647
+  },
+  "hellstone_golem.pillarCountMin": {
+    "default": 3,
+    "zh": "狱岩魔像：狱岩图腾柱：每轮召唤数量下限；一次技能共四轮。",
+    "en": "Hellstone Golem totems: minimum totems per wave; each cast summons four waves.",
+    "min": 1,
+    "max": 8
+  },
+  "hellstone_golem.pillarCountMax": {
+    "default": 5,
+    "zh": "狱岩魔像：狱岩图腾柱：每轮召唤数量上限。",
+    "en": "Hellstone Golem totems: maximum totems per wave.",
+    "min": 1,
+    "max": 8
+  },
+  "hellstone_golem.pillarRadius": {
+    "default": 10,
+    "zh": "狱岩魔像：狱岩图腾柱：相对魔像中心的最大召唤半径（格）。",
+    "en": "Hellstone Golem totems: maximum summon radius around the golem in blocks.",
+    "min": 1
+  },
+  "hellstone_golem.pillarProjectileDamage": {
+    "default": 7,
+    "zh": "狱岩魔像：狱岩图腾柱：恶燃弹直接命中伤害（生命点）。",
+    "en": "Hellstone Golem totems: malevolent ember direct hit damage in health points.",
+    "min": 0
+  },
+  "hellstone_golem.pillarBurnDuration": {
+    "default": 100,
+    "zh": "狱岩魔像：狱岩图腾柱：恶燃弹命中后施加恶燃的持续时间（刻）。",
+    "en": "Hellstone Golem totems: malevolent burn duration after an ember hits, in ticks.",
+    "min": 1
+  },
+  "hellstone_golem.pillarProjectileAcceleration": {
+    "default": 0.1,
+    "zh": "狱岩魔像：狱岩图腾柱：恶燃弹每刻加速度；乘以原版烈焰人火球的0.95阻力，默认等同烈焰人火球。",
+    "en": "Hellstone Golem totems: ember acceleration per tick, followed by vanilla blaze fireball drag of 0.95; defaults to vanilla blaze motion.",
+    "min": 0.001
+  },
+  "hellstone_golem.pillarProjectileLifetime": {
+    "default": 40,
+    "zh": "狱岩魔像：狱岩图腾柱：恶燃弹最大飞行时间（刻）。",
+    "en": "Hellstone Golem totems: maximum malevolent ember flight time in ticks.",
+    "min": 1
+  },
+  "hellstone_imp.selfDestructDelay": {
+    "default": 10,
+    "zh": "狱岩小鬼：被魔像召唤后，开始追近玩家或原地准备自爆前的等待时间（秒）。",
+    "en": "Hellstone Imp: delay after being summoned before approaching nearby players or preparing to self-destruct in place (seconds).",
+    "min": 0.05
+  },
+  "hellstone_imp.selfDestructDamage": {
+    "default": 8,
+    "zh": "狱岩小鬼：召唤个体自爆中心伤害（生命点），向三格边缘递减。",
+    "en": "hellstone imp: summoned self-destruct damage at the center in health points, decreasing to zero at three blocks.",
+    "min": 0
+  },
+  "hellstone.helmet.armor": {
+    "default": 4,
+    "zh": "狱岩：头盔：护甲值。",
+    "en": "Hellstone / helmet: armor points.",
+    "min": 0
+  },
+  "hellstone.helmet.enchantability": {
+    "default": 23,
+    "zh": "狱岩：头盔：附魔能力。",
+    "en": "Hellstone / helmet: enchantability.",
+    "min": 0
+  },
+  "hellstone.helmet.toughness": {
+    "default": 2,
+    "zh": "狱岩：头盔：盔甲韧性。",
+    "en": "Hellstone / helmet: armor toughness.",
+    "min": 0
+  },
+  "hellstone.helmet.durability": {
+    "default": 450,
+    "zh": "狱岩：头盔：耐久度。",
+    "en": "Hellstone / helmet: durability.",
+    "min": 1
+  },
+  "hellstone.helmet.knockbackResistance": {
+    "default": 0.2,
+    "zh": "狱岩：头盔：击退抗性。",
+    "en": "Hellstone / helmet: knockback resistance.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.leggings.armor": {
+    "default": 7,
+    "zh": "狱岩：护腿：护甲值。",
+    "en": "Hellstone / leggings: armor points.",
+    "min": 0
+  },
+  "hellstone.leggings.enchantability": {
+    "default": 23,
+    "zh": "狱岩：护腿：附魔能力。",
+    "en": "Hellstone / leggings: enchantability.",
+    "min": 0
+  },
+  "hellstone.leggings.toughness": {
+    "default": 2,
+    "zh": "狱岩：护腿：盔甲韧性。",
+    "en": "Hellstone / leggings: armor toughness.",
+    "min": 0
+  },
+  "hellstone.leggings.durability": {
+    "default": 600,
+    "zh": "狱岩：护腿：耐久度。",
+    "en": "Hellstone / leggings: durability.",
+    "min": 1
+  },
+  "hellstone.leggings.knockbackResistance": {
+    "default": 0.2,
+    "zh": "狱岩：护腿：击退抗性。",
+    "en": "Hellstone / leggings: knockback resistance.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.boots.armor": {
+    "default": 4,
+    "zh": "狱岩：靴子：护甲值。",
+    "en": "Hellstone / boots: armor points.",
+    "min": 0
+  },
+  "hellstone.boots.enchantability": {
+    "default": 23,
+    "zh": "狱岩：靴子：附魔能力。",
+    "en": "Hellstone / boots: enchantability.",
+    "min": 0
+  },
+  "hellstone.boots.toughness": {
+    "default": 2,
+    "zh": "狱岩：靴子：盔甲韧性。",
+    "en": "Hellstone / boots: armor toughness.",
+    "min": 0
+  },
+  "hellstone.boots.durability": {
+    "default": 500,
+    "zh": "狱岩：靴子：耐久度。",
+    "en": "Hellstone / boots: durability.",
+    "min": 1
+  },
+  "hellstone.boots.knockbackResistance": {
+    "default": 0.2,
+    "zh": "狱岩：靴子：击退抗性。",
+    "en": "Hellstone / boots: knockback resistance.",
+    "min": 0,
+    "max": 1
+  },
+  "hellstone.armor.burnDuration2": {
+    "default": 40,
+    "zh": "狱岩：穿戴2件时，受击反制施加的恶燃持续时间（刻）。",
+    "en": "Hellstone: malevolent burn duration from retaliation while wearing 2 armor pieces, in ticks.",
+    "min": 0
+  },
+  "hellstone.armor.burnDuration3": {
+    "default": 50,
+    "zh": "狱岩：穿戴3件时，受击反制施加的恶燃持续时间（刻）。",
+    "en": "Hellstone: malevolent burn duration from retaliation while wearing 3 armor pieces, in ticks.",
+    "min": 0
+  },
+  "hellstone.armor.burnDuration4": {
+    "default": 30,
+    "zh": "狱岩：穿戴4件时，受击反制施加的恶燃持续时间（刻）。",
+    "en": "Hellstone: malevolent burn duration from retaliation while wearing 4 armor pieces, in ticks.",
+    "min": 0
+  },
+  "mechasent.arm.attackDamage": {
+    "default": 11,
+    "min": 0,
+    "zh": "遣使断臂攻击伤害（包含玩家基础伤害）。",
+    "en": "Severed arm total attack damage."
+  },
+  "mechasent.arm.attackSpeed": {
+    "default": 1.6,
+    "min": 0,
+    "zh": "遣使断臂攻击速度。",
+    "en": "Severed arm attack speed."
+  },
+  "mechasent.arm.durabilityMultiplier": {
+    "default": 0.85,
+    "min": 0,
+    "zh": "遣使断臂相对于下界合金剑的耐久比例。",
+    "en": "Severed arm durability relative to the netherite sword."
+  },
+  "mechasent.arm.durabilityStep": {
+    "default": 25,
+    "min": 1,
+    "zh": "遣使断臂耐久取整步长。",
+    "en": "Severed arm durability rounding step."
+  },
+  "mechasent.arm.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "遣使断臂附魔能力。",
+    "en": "Severed arm enchantability."
+  },
+  "mechasent.modules.totemCooldown": {
+    "default": 3600,
+    "min": 0,
+    "zh": "强化图腾模块各自独立的冷却（刻）。",
+    "en": "Independent cooldown per upgraded totem module in ticks."
+  },
+  "mechasent.modules.protocolCooldown": {
+    "default": 3600,
+    "min": 0,
+    "zh": "最终协议冷却（刻）。",
+    "en": "Final protocol cooldown in ticks."
+  },
+  "mechasent.modules.debuffDuration": {
+    "default": 60,
+    "min": 1,
+    "zh": "代谢促进允许的最长负面效果时间（刻）。",
+    "en": "Maximum negative effect duration with metabolism module in ticks."
+  },
+  "mechasent.helmet.armor": {
+    "default": 3,
+    "min": 0,
+    "zh": "遣械面甲：护甲值。",
+    "en": "Mechasent helmet: armor."
+  },
+  "mechasent.helmet.toughness": {
+    "default": 4,
+    "min": 0,
+    "zh": "遣械面甲：韧性。",
+    "en": "Mechasent helmet: toughness."
+  },
+  "mechasent.helmet.durability": {
+    "default": 350,
+    "min": 1,
+    "zh": "遣械面甲：耐久。",
+    "en": "Mechasent helmet: durability."
+  },
+  "mechasent.helmet.knockbackResistance": {
+    "default": 0.1,
+    "min": 0,
+    "zh": "遣械面甲：击退抗性。",
+    "en": "Mechasent helmet: knockbackResistance."
+  },
+  "mechasent.helmet.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "遣械面甲：附魔能力。",
+    "en": "Mechasent helmet: enchantability."
+  },
+  "mechasent.chestplate.armor": {
+    "default": 8,
+    "min": 0,
+    "zh": "遣械战铠：护甲值。",
+    "en": "Mechasent chestplate: armor."
+  },
+  "mechasent.chestplate.toughness": {
+    "default": 4,
+    "min": 0,
+    "zh": "遣械战铠：韧性。",
+    "en": "Mechasent chestplate: toughness."
+  },
+  "mechasent.chestplate.durability": {
+    "default": 500,
+    "min": 1,
+    "zh": "遣械战铠：耐久。",
+    "en": "Mechasent chestplate: durability."
+  },
+  "mechasent.chestplate.knockbackResistance": {
+    "default": 0.1,
+    "min": 0,
+    "zh": "遣械战铠：击退抗性。",
+    "en": "Mechasent chestplate: knockbackResistance."
+  },
+  "mechasent.chestplate.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "遣械战铠：附魔能力。",
+    "en": "Mechasent chestplate: enchantability."
+  },
+  "mechasent.leggings.armor": {
+    "default": 6,
+    "min": 0,
+    "zh": "遣械护腿：护甲值。",
+    "en": "Mechasent leggings: armor."
+  },
+  "mechasent.leggings.toughness": {
+    "default": 4,
+    "min": 0,
+    "zh": "遣械护腿：韧性。",
+    "en": "Mechasent leggings: toughness."
+  },
+  "mechasent.leggings.durability": {
+    "default": 475,
+    "min": 1,
+    "zh": "遣械护腿：耐久。",
+    "en": "Mechasent leggings: durability."
+  },
+  "mechasent.leggings.knockbackResistance": {
+    "default": 0.1,
+    "min": 0,
+    "zh": "遣械护腿：击退抗性。",
+    "en": "Mechasent leggings: knockbackResistance."
+  },
+  "mechasent.leggings.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "遣械护腿：附魔能力。",
+    "en": "Mechasent leggings: enchantability."
+  },
+  "mechasent.boots.armor": {
+    "default": 3,
+    "min": 0,
+    "zh": "遣械推进靴：护甲值。",
+    "en": "Mechasent boots: armor."
+  },
+  "mechasent.boots.toughness": {
+    "default": 4,
+    "min": 0,
+    "zh": "遣械推进靴：韧性。",
+    "en": "Mechasent boots: toughness."
+  },
+  "mechasent.boots.durability": {
+    "default": 400,
+    "min": 1,
+    "zh": "遣械推进靴：耐久。",
+    "en": "Mechasent boots: durability."
+  },
+  "mechasent.boots.knockbackResistance": {
+    "default": 0.1,
+    "min": 0,
+    "zh": "遣械推进靴：击退抗性。",
+    "en": "Mechasent boots: knockbackResistance."
+  },
+  "mechasent.boots.enchantability": {
+    "default": 15,
+    "min": 0,
+    "zh": "遣械推进靴：附魔能力。",
+    "en": "Mechasent boots: enchantability."
+  },
+  "mechasent.modules.debuffBlacklist": {
+    "default": "snows_bosses:malevolent_burn,farmers_future_delight:bad_omen",
+    "zh": "代谢促进不缩短的效果注册名列表，以英文逗号分隔；恶燃默认不缩短。",
+    "en": "Comma-separated effect IDs not shortened by metabolism. Malevolent Burn is excluded by default."
+  }
+}

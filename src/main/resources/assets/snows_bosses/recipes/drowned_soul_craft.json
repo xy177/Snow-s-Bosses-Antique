@@ -1,0 +1,27 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "item": "snows_bosses:broken_drowned_soul"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "snows_bosses:broken_drowned_soul"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    }
+  ],
+  "result": {
+    "item": "snows_bosses:drowned_soul",
+    "count": 1
+  }
+}

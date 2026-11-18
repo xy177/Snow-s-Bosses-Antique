@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "snows_bosses",
+    "name": "Snow's Bosses:Antique",
+    "description": "Minecraft Version: 1.12.2\nRequired Mods: Farmer's Future Delight, GeckoLib\n\nDescription\n\nSnow's Bosses:Antique brings bosses and related content from newer Minecraft mods to Minecraft 1.12.2.\n\nChallenge the Drowner in the ocean and the Hellstone Golem in the Nether, or face the Mechasent during the final wave of a village raid. Explore related structures and discover Coral, Hellstone, and Mechasent gear, along with equipment modules.\n\nOriginal Mods\n\nCall Of Drowner — https://www.curseforge.com/minecraft/mc-mods/call-of-drowner\nSnow's Bosses: Hellstone Golem — https://www.curseforge.com/minecraft/mc-mods/hellstone-golem\nSnow's Bosses: Mechasent — https://www.curseforge.com/minecraft/mc-mods/snows-bosses-mechasent",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "logoFile": "assets/snows_bosses/textures/logo.png",
+    "authorList": ["xy177"],
+    "credits": "Music provided by [乌鸦Producer].\nMusic provided by [MAKAI SYMPHONY].\nThe Drowner's two battle tracks were sourced from the internet.",
+    "dependencies": ["farmers_future_delight", "geckolib3"]
+  }
+]

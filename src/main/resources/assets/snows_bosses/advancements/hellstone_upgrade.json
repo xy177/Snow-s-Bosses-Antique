@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:hellstone_ingot"
+    },
+    "title": {
+      "translate": "advancements.hellstone_upgrade.title"
+    },
+    "description": {
+      "translate": "advancements.hellstone_upgrade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_hellstone_equipment": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "snows_bosses:return_to_mist"
+}

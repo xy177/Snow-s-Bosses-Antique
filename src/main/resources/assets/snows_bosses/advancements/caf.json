@@ -1,0 +1,68 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:coral_chestplate"
+    },
+    "title": {
+      "translate": "advancements.caf.title"
+    },
+    "description": {
+      "translate": "advancements.caf.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "caf_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_helmet"
+          }
+        ]
+      }
+    },
+    "caf_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_chestplate"
+          }
+        ]
+      }
+    },
+    "caf_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_leggings"
+          }
+        ]
+      }
+    },
+    "caf_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_boots"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "snows_bosses:tsd",
+  "requirements": [
+    [
+      "caf_0",
+      "caf_1",
+      "caf_2",
+      "caf_3"
+    ]
+  ]
+}

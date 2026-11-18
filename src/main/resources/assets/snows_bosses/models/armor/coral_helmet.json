@@ -1,0 +1,178 @@
+{
+  "textureSize": [
+    64,
+    64
+  ],
+  "parts": [
+    {
+      "name": "Head",
+      "parent": null,
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "cubes": [
+        {
+          "uv": [
+            0,
+            32
+          ],
+          "origin": [
+            -4.0,
+            -8.0,
+            -4.0
+          ],
+          "size": [
+            8.0,
+            8.0,
+            8.0
+          ],
+          "inflate": 0.75,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "cube_r1",
+      "parent": "Head",
+      "pivot": [
+        -3.5,
+        -7.5,
+        1.5
+      ],
+      "rotation": [
+        -0.8727,
+        -0.2618,
+        -0.0873
+      ],
+      "cubes": [
+        {
+          "uv": [
+            44,
+            39
+          ],
+          "origin": [
+            -1.5,
+            -4.5,
+            -1.5
+          ],
+          "size": [
+            3.0,
+            6.0,
+            3.0
+          ],
+          "inflate": 0.0,
+          "mirror": true
+        }
+      ]
+    },
+    {
+      "name": "cube_r2",
+      "parent": "Head",
+      "pivot": [
+        3.5,
+        -7.5,
+        1.5
+      ],
+      "rotation": [
+        -0.8727,
+        0.2618,
+        0.0873
+      ],
+      "cubes": [
+        {
+          "uv": [
+            44,
+            39
+          ],
+          "origin": [
+            -1.5,
+            -4.5,
+            -1.5
+          ],
+          "size": [
+            3.0,
+            6.0,
+            3.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "HatLayer_r1",
+      "parent": "Head",
+      "pivot": [
+        -4.7,
+        -4.5,
+        -3.0
+      ],
+      "rotation": [
+        0.0,
+        -0.1309,
+        0.1745
+      ],
+      "cubes": [
+        {
+          "uv": [
+            32,
+            38
+          ],
+          "origin": [
+            -0.5,
+            -0.5,
+            -2.0
+          ],
+          "size": [
+            1.0,
+            5.0,
+            5.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "name": "HatLayer_r2",
+      "parent": "Head",
+      "pivot": [
+        4.7,
+        -4.5,
+        -3.0
+      ],
+      "rotation": [
+        0.0,
+        0.1309,
+        -0.1745
+      ],
+      "cubes": [
+        {
+          "uv": [
+            32,
+            38
+          ],
+          "origin": [
+            -0.5,
+            -0.5,
+            -2.0
+          ],
+          "size": [
+            1.0,
+            5.0,
+            5.0
+          ],
+          "inflate": 0.0,
+          "mirror": false
+        }
+      ]
+    }
+  ]
+}

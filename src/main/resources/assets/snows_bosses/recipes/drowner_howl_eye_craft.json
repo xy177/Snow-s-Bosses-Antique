@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:ender_eye" },
+    { "item": "snows_bosses:broken_drowned_soul" }
+  ],
+  "result": {
+    "item": "snows_bosses:drowner_howl_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BGB",
+    "GHG",
+    "BGB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "H": {
+      "item": "snows_bosses:hellstone_smithing_template"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:hellstone_smithing_template",
+    "count": 2
+  }
+}

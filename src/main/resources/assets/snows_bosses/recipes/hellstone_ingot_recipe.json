@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "snows_bosses:hellstone_block"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:hellstone_ingot",
+    "count": 9
+  }
+}

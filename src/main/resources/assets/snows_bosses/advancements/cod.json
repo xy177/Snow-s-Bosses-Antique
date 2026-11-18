@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "snows_bosses:textures/screens/cod_advancement.png",
+    "icon": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "title": {
+      "translate": "advancements.cod.title"
+    },
+    "description": {
+      "translate": "advancements.cod.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "cod_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

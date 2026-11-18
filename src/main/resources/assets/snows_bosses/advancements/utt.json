@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:broken_drowned_soul"
+    },
+    "title": {
+      "translate": "advancements.utt.title"
+    },
+    "description": {
+      "translate": "advancements.utt.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "utt_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "snows_bosses:cod"
+}

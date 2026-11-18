@@ -1,0 +1,7 @@
+entity = "snows_bosses:mechasent"
+enabled = true
+mainColor = "D2DEE9"
+accentColor = "FC4632"
+texts = "snows_bosses_mechasent_combat.txt"
+snowsBossesActions = true
+eventTexts = "snows_bosses_mechasent_events.txt"

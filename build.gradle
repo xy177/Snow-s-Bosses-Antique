@@ -1,0 +1,89 @@
+buildscript {
+    repositories {
+        maven { url = 'https://maven.minecraftforge.net/' }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:3.0.197'
+    }
+}
+
+apply plugin: 'net.minecraftforge.gradle'
+
+version = mod_version
+group = 'xy177.snowsbosses'
+archivesBaseName = 'snow-bosses-antique'
+
+sourceCompatibility = targetCompatibility = '1.8'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+sourceSets.main.output.resourcesDir = sourceSets.main.output.classesDir
+
+minecraft {
+    mappings channel: 'snapshot', version: '20171003-1.12'
+
+    runs {
+        client {
+            workingDirectory file('E:/BOX/snows-bosses-antique/run/client')
+            property 'fml.coreMods.load', 'xy177.farmersfuturedelight.core.FFDLoadingPlugin,xy177.snowsbosses.core.EquipmentLoadingPlugin'
+            mods {
+                snows_bosses {
+                    source sourceSets.main
+                }
+            }
+        }
+        server {
+            workingDirectory file('E:/BOX/snows-bosses-antique/run/server')
+            property 'fml.coreMods.load', 'xy177.farmersfuturedelight.core.FFDLoadingPlugin,xy177.snowsbosses.core.EquipmentLoadingPlugin'
+            mods {
+                snows_bosses {
+                    source sourceSets.main
+                }
+            }
+        }
+    }
+}
+
+repositories {
+    maven { url = 'https://maven.blamejared.com/' }
+    flatDir {
+        dirs file(findProperty('farmers_future_delight_directory') ?: '../Farmers-Future-Delight/build/libs'),
+             file(findProperty('geckolib_directory') ?: 'E:/BOX/snows-bosses-antique/dependencies')
+    }
+}
+
+dependencies {
+    minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
+    compile fg.deobf("local:farmers-future-delight:${farmers_future_delight_version}")
+    compile fg.deobf("local:geckolib-forge-1.12.2:${geckolib_version}")
+    compileOnly fg.deobf('mezz.jei:jei_1.12.2:4.16.1.1013')
+}
+
+processResources {
+    filteringCharset = 'UTF-8'
+    inputs.property 'version', project.version
+    filesMatching('mcmod.info') {
+        filter { line -> line.replace('${version}', project.version.toString()) }
+    }
+}
+
+jar {
+    from 'LICENSE'
+    manifest {
+        attributes([
+            'FMLCorePlugin': 'xy177.snowsbosses.core.EquipmentLoadingPlugin',
+            'FMLCorePluginContainsFMLMod': 'true',
+            'Specification-Title': 'snows_bosses',
+            'Specification-Vendor': 'xy177',
+            'Specification-Version': '1',
+            'Implementation-Title': "Snow's Bosses:Antique",
+            'Implementation-Version': project.version,
+            'Implementation-Vendor': 'xy177'
+        ])
+    }
+}
+
+jar.finalizedBy 'reobfJar'

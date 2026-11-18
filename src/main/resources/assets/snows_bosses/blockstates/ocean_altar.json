@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "snows_bosses:ocean_altar"
+    },
+    "waterlogged=true": {
+      "model": "snows_bosses:ocean_altar"
+    }
+  }
+}

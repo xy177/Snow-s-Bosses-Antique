@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "snows_bosses:items/mechasent_arm"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "snows_bosses:item/mechasent_arm_blocking"
+    }
+  ]
+}

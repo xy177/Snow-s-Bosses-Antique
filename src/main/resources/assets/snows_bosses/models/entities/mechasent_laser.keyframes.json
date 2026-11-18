@@ -1,0 +1,776 @@
+{
+  "summon": {
+    "length": 0.85,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "bone",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.2,
+            "vector": [
+              0.0,
+              23.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "bone",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.2,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.249,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              1.0,
+              0.0,
+              1.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.35,
+            "vector": [
+              1.0,
+              2.7,
+              1.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              0.0,
+              4.9,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "bone2",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.2,
+            "vector": [
+              0.0,
+              -21.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              8.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.549,
+            "vector": [
+              0.0,
+              8.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.55,
+            "vector": [
+              0.0,
+              -21.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              0.0,
+              8.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "bone2",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.15,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.199,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.2,
+            "vector": [
+              1.4,
+              0.0,
+              1.4
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.35,
+            "vector": [
+              1.4,
+              4.0,
+              1.4
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              1.4,
+              0.0,
+              1.4
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.549,
+            "vector": [
+              1.4,
+              0.0,
+              1.4
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.55,
+            "vector": [
+              1.4,
+              0.0,
+              1.4
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.7,
+            "vector": [
+              1.4,
+              4.0,
+              1.4
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              1.4,
+              0.0,
+              1.4
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "all",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  },
+  "summon2": {
+    "length": 2.0,
+    "loop": false,
+    "channels": [
+      {
+        "bone": "bone",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              23.0,
+              0.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "bone",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.1,
+            "vector": [
+              1.0,
+              0.0,
+              1.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              1.0,
+              2.0,
+              1.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.65,
+            "vector": [
+              1.0,
+              2.0,
+              1.0
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.0,
+            "vector": [
+              1.0,
+              0.0,
+              1.0
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "bone2",
+        "target": "position",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.2,
+            "vector": [
+              0.0,
+              31.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.249,
+            "vector": [
+              0.0,
+              31.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.499,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.7,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.749,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 0.999,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.2,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.249,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.45,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.499,
+            "vector": [
+              0.0,
+              49.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.5,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              0.0,
+              37.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.749,
+            "vector": [
+              0.0,
+              37.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              0.0,
+              12.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 1.999,
+            "vector": [
+              0.0,
+              12.0,
+              0.0
+            ],
+            "smooth": false
+          },
+          {
+            "time": 2.0,
+            "vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "smooth": false
+          }
+        ]
+      },
+      {
+        "bone": "bone2",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.1,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.2,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.25,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.35,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.45,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.5,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.6,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.7,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.75,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.85,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 0.95,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.0,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.1,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.2,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.25,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.35,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.45,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.5,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.6,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.7,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.75,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.85,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 1.95,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          },
+          {
+            "time": 2.0,
+            "vector": [
+              1.3,
+              0.0,
+              1.3
+            ],
+            "smooth": true
+          }
+        ]
+      },
+      {
+        "bone": "all",
+        "target": "scale",
+        "keys": [
+          {
+            "time": 0.0,
+            "vector": [
+              1.3,
+              1.0,
+              1.3
+            ],
+            "smooth": false
+          }
+        ]
+      }
+    ]
+  }
+}

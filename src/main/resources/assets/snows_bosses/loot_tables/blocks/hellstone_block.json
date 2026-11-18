@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "item",
+          "name": "snows_bosses:hellstone_block"
+        }
+      ],
+      "name": "pool0"
+    }
+  ]
+}

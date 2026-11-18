@@ -1,0 +1,8 @@
+entity = "snows_bosses:hellstone_golem"
+enabled = true
+mainColor = "D17C40"
+accentColor = "F2A85C"
+texts = "snows_bosses_hellstone_golem_combat.txt"
+snowsBossesActions = true
+summonImpsTexts = "snows_bosses_hellstone_golem_summon_imps.txt"
+summonTotemsTexts = "snows_bosses_hellstone_golem_summon_totems.txt"

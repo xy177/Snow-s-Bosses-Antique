@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "snows_bosses:block/raw_hellstone_block",
+    "up": "snows_bosses:block/raw_hellstone_block",
+    "north": "snows_bosses:block/raw_hellstone_block",
+    "east": "snows_bosses:block/raw_hellstone_block",
+    "south": "snows_bosses:block/raw_hellstone_block",
+    "west": "snows_bosses:block/raw_hellstone_block",
+    "particle": "snows_bosses:block/raw_hellstone_block"
+  },
+  "render_type": "solid"
+}

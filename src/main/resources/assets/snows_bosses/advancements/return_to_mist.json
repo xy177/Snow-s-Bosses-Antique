@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spawn_egg",
+      "nbt": "{EntityTag:{id:\"snows_bosses:hellstone_golem\"}}"
+    },
+    "title": {
+      "translate": "advancements.return_to_mist.title"
+    },
+    "description": {
+      "translate": "advancements.return_to_mist.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill_hellstone_golem": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "snows_bosses:cod"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "snows_bosses:custom/ocean_altar",
+  "textures": {
+    "all": "snows_bosses:blocks/ocean_altar",
+    "particle": "farmers_future_delight:block/weathered_copper",
+    "0": "snows_bosses:blocks/ocean_altar"
+  }
+}

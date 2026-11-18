@@ -1,0 +1,199 @@
+{
+  "drowner_mounted_music": {
+    "sounds": [
+      {
+        "name": "snows_bosses:drowner/mounted_music",
+        "volume": 0.17,
+        "stream": false
+      }
+    ]
+  },
+  "drowner_music": {
+    "sounds": [
+      {
+        "name": "snows_bosses:drowner/battle_music",
+        "volume": 0.17,
+        "stream": true
+      }
+    ]
+  },
+  "worker_bee_beam_loop": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/purifier_beam_loop",
+        "stream": false
+      }
+    ]
+  },
+  "worker_bee_beam_end": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/purifier_beam_end",
+        "stream": false
+      }
+    ]
+  },
+  "hellstone_golem_music": {
+    "sounds": [
+      {
+        "name": "snows_bosses:hellstone_golem/battle_music",
+        "volume": 0.17,
+        "stream": true
+      }
+    ]
+  },
+  "mechasent_music": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/battle_music",
+        "volume": 0.34,
+        "stream": true
+      }
+    ]
+  },
+  "mechasent_roar": {
+    "subtitle": "subtitles.mechasent_roar",
+    "sounds": [
+      {
+        "name": "snows_bosses:roar",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_01": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_01",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_02": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_02",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_03": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_03",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_04": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_04",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_05": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_05",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_06": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_06",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_07": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_07",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_08": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_08",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_09": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_09",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_10": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_10",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_11": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_11",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_12": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_12",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_13": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_13",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_14": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_14",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_15": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_15",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_16": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_16",
+        "stream": false
+      }
+    ]
+  },
+  "mechasent_broadcast_17": {
+    "sounds": [
+      {
+        "name": "snows_bosses:mechasent/broadcast_17",
+        "stream": false
+      }
+    ]
+  }
+}

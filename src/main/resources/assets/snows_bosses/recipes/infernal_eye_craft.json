@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:ender_eye" },
+    { "item": "minecraft:magma_cream" }
+  ],
+  "result": {
+    "item": "snows_bosses:infernal_eye",
+    "count": 1
+  }
+}

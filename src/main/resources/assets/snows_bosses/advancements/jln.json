@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "snows_bosses:coral_spear"
+    },
+    "title": {
+      "translate": "advancements.jln.title"
+    },
+    "description": {
+      "translate": "advancements.jln.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jln_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_spear"
+          }
+        ]
+      }
+    },
+    "jln_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "snows_bosses:coral_scythe"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "snows_bosses:tsd",
+  "requirements": [
+    [
+      "jln_0",
+      "jln_1"
+    ]
+  ]
+}

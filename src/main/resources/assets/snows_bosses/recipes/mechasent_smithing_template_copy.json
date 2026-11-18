@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ITI",
+    "RIR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "snows_bosses:mechasent_smithing_template"
+    }
+  },
+  "result": {
+    "item": "snows_bosses:mechasent_smithing_template",
+    "count": 2
+  }
+}
